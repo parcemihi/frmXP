@@ -1,0 +1,31 @@
+SORT ORDERS:
+    VHS_ID
+    ALPHA SORT ORDER:
+	Title 
+	QTY
+	Location 
+	Copyright
+	Media format 
+	Running time 
+
+
+VARIABLE TYPES:
+    VHS_ID		STRING (DDS Concatenation)
+    Title		INTEGER
+    QTY			INTEGER
+    Location		INTEGER
+    Copyright		INTEGER
+    Media format	INTEGER
+    Running time	INTEGER
+
+REFERENCES:
+    VHS_ID		Video Database Primary Key
+
+"Sort order is defined in this table. Each integer references 
+the Video Database array stored in memory. ON LOAD a seperate
+array calls this table for sort procedures."
+
+    
+
+Create Table SortOrder
+( VHS_ID, Title, Copyright, Media format, Running time, QTY, Location )

@@ -1,0 +1,220 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0045)http://www.freevbcode.com/ShowCode.Asp?ID=182 -->
+<HTML><HEAD><TITLE>Populate a List or Combo Box with Values From an Access Database</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=windows-1252">
+<SCRIPT language=JavaScript 
+src="Populate a List or Combo Box with Values From an Access Database_files/lunaD.js"></SCRIPT>
+
+<META content="MSHTML 5.50.4522.1800" name=GENERATOR></HEAD>
+<BODY bgColor=#ffffff>
+<SCRIPT>tabletop ();</SCRIPT>
+<!--
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR=#FFFFFF>
+--><!-- FreeVBCode -->
+<STYLE type=text/css>.header_links {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: red; FONT-FAMILY: Verdana,Arial,Helvetica; TEXT-DECORATION: underline
+}
+.footer_links {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: red; FONT-FAMILY: Verdana,Arial,Helvetica; TEXT-DECORATION: underline
+}
+</STYLE>
+
+<P>
+<CENTER>
+<FORM name=searchform action=searchresults.asp method=post>
+<TABLE>
+  <TBODY>
+  <TR>
+    <TD><B><FONT face=Arial,Helvetica size=-1>Find Code:</FONT></B></TD>
+    <TD><INPUT size=25 name=search></TD>
+    <TD align=right width=60><INPUT type=submit value=Search name=searchbutton></TD>
+    <TD><FONT face=Arial,Helvetica size=-1>&nbsp;<A class=header_links 
+      href="http://www.freevbcode.com/AdvancedSearch.asp">Advanced 
+      Search</A></FONT></TD></TR></TBODY></TABLE></FORM></CENTER>
+<P>
+<TABLE width="100%">
+  <TBODY>
+  <TR>
+    <TD width="20%"><A class=header_links 
+      href="http://www.freevbcode.com/default.asp">Home</A></TD>
+    <TD width="20%"><A class=header_links 
+      href="http://www.freevbcode.com/new.asp">New</A></TD>
+    <TD width="20%"><A class=header_links 
+      href="http://www.freevbcode.com/hot.asp">Hot</A></TD>
+    <TD width="20%"><A class=header_links 
+      href="http://www.freevbcode.com/best.asp">Best</A><BR></TD>
+    <TD width="20%"><A class=header_links 
+      href="http://www.freevbcode.com/forum_home.asp">Forum</A></TD>
+  <TR>
+    <TD width="20%"><A class=header_links 
+      href="http://www.freevbcode.com/vbnews.asp">News</A></TD>
+    <TD width="20%"><A class=header_links 
+      href="http://www.freevbcode.com/jobs.asp">Jobs</A></TD>
+    <TD width="20%"><A class=header_links 
+      href="http://www.freevbcode.com/links.asp">Links</A></TD>
+    <TD width="20%"><A class=header_links 
+      href="http://www.freevbcode.com/newsletter.asp">Newsletter</A></TD>
+    <TD noWrap width="20%"><A class=header_links 
+      href="http://www.freevbcode.com/upload.asp">Submit 
+Code</A></TD></TR></TBODY></TABLE>
+<P>
+<CENTER><B><FONT size=+1>Populate a List or Combo Box with Values From an Access 
+Database</FONT></CENTER></B>
+<P>
+<TABLE>
+  <TBODY>
+  <TR>
+    <TD><B>Author:</B></TD>
+    <TD><A 
+      href="http://www.freevbcode.com/AuthorInfo.asp?AuthorID=1">FreeVBCode.com</A></TD></TR>
+  <TR>
+    <TD><B>Category:</B></TD>
+    <TD><A 
+      href="http://www.freevbcode.com/listcode.asp?Category=4">Database</A></TD></TR>
+  <TR>
+    <TD><B>Type:</B></TD>
+    <TD><A 
+  href="http://www.freevbcode.com/listcode.asp?Type=1">Snippets</A></TD></TR>
+  <TR>
+    <TD><B>Difficulty:</B></TD>
+    <TD><A 
+    href="http://www.freevbcode.com/listcode.asp?Level=1">Beginning</A></TD></TR></TBODY></TABLE>
+<P>
+<TABLE cellSpacing=0 cellPadding=0>
+  <TBODY>
+  <TR>
+    <TD vAlign=top><B>Version Compatibility:</B></TD>
+    <TD vAlign=top><B><I>&nbsp;Visual Basic 5&nbsp;&nbsp;&nbsp;Visual Basic 
+      6</I></B></TD></TR></TBODY></TABLE>
+<P>This code has been viewed <B>12440</B> times.
+<P><B>Instructions: </B>Copy the declarations and code below and paste directly 
+into your VB project.
+<P><B>Declarations:</B><BR>
+<FORM><TEXTAREA name=Dec rows=6 cols=65>'(None)</TEXTAREA> 
+<P><B>Code:</B><BR><TEXTAREA rows=20 cols=65>Public Sub PopulateLBWithData(DBPath As String, _
+TableName As String, FieldName As String, _
+oListControl As Object,Optional Distinct As Boolean = False, _
+Optional OrderBy As String)
+
+'PURPOSE: Populate a list box, combo box
+'or control with similar interface with data
+'from one field in a Access Database table
+
+'Parameters: DBPath: FullPath to Database
+'TableName: The Name of the Table
+'FieldName: Name of the Field
+'Distinct: Optional -- True if you want distinct value
+'Order By:  Optional -- Field to Order Results by
+
+'Must have reference to DAO in your project
+
+Dim sSQL As String
+Dim db As DAO.Database
+Dim rs As DAO.Recordset
+Dim td As DAO.TableDef
+Dim f As DAO.Field
+
+Dim sTest As String
+Dim bIsNumeric As Boolean
+Dim i As Integer
+
+On Error Resume Next
+
+'validate all parameters
+    
+oListControl.AddItem "a"
+oListControl.Clear
+If Err.Number &gt; 0 Then Exit Sub
+
+sTest = Dir(DBPath)
+If sTest = "" Then Exit Sub
+
+Set db = Workspaces(0).OpenDatabase(DBPath)
+If Err.Number &gt; 0 Then Exit Sub
+
+Set td = db.TableDefs(TableName)
+If Err.Number &gt; 0 Then
+    db.Close
+    Exit Sub
+End If
+
+Set f = td.Fields(FieldName)
+    If Err.Number &gt; 0 Then
+        db.Close
+        Exit Sub
+    End If
+
+If Len(OrderBy) Then
+    Set f = td.Fields(OrderBy)
+    If Err.Number &gt; 0 Then
+        db.Close
+        Exit Sub
+    End If
+End If
+    
+sSQL = "SELECT "
+If Distinct Then sSQL = sSQL &amp; "DISTINCT "
+sSQL = sSQL &amp; "[" &amp; FieldName &amp; "] FROM [" &amp; TableName &amp; "]"
+
+If OrderBy &lt;&gt; "" Then sSQL = sSQL &amp; " ORDER BY " &amp; OrderBy
+
+Set rs = db.OpenRecordSet(sSQL, dbOpenForwardOnly)
+
+With rs
+    Do While Not .EOF
+        oListControl.AddItem rs(FieldName)
+        .MoveNext
+    Loop
+    .Close
+End With
+
+db.Close
+End Sub</TEXTAREA></FORM>
+<P><A href="http://www.freevbcode.com/ShowCode.asp?ID=182&amp;NoBox=True"><B>No 
+Text Boxes</B> </A>
+<P>
+<TABLE width="100%">
+  <TBODY>
+  <TR>
+    <TD width=25>&nbsp;</TD>
+    <TD width=150><B>Recommended Book:</B>
+      <P><A 
+      href="http://bn.bfast.com/booklink/click?sourceid=17694049&amp;ISBN=1861002025"><IMG 
+      height=1 
+      src="Populate a List or Combo Box with Values From an Access Database_files/serve.gif" 
+      width=1 border=0><IMG 
+      src="Populate a List or Combo Box with Values From an Access Database_files/vbDatabase.gif" 
+      border=0></A><BR><A 
+      href="http://bn.bfast.com/booklink/click?sourceid=17694049&amp;ISBN=1861002025"><IMG 
+      height=1 
+      src="Populate a List or Combo Box with Values From an Access Database_files/serve.gif" 
+      width=1 border=0>
+      <P><FONT size=-1>Professional Visual Basic 6 Databases</A></FONT></P></TD>
+    <TD>&nbsp;</TD></TR></TBODY></TABLE>
+<P>
+<HR>
+
+<TABLE width="100%">
+  <TBODY>
+  <TR>
+    <TD width="17%"><A class=footer_links 
+      href="http://www.freevbcode.com/DOM.asp">Developers</A></TD>
+    <TD width="11%"><A class=footer_links 
+      href="http://www.freevbcode.com/about.asp">About</A></TD>
+    <TD width="11%"><A class=footer_links 
+      href="http://www.freevbcode.com/store.asp">Store</A></TD>
+    <TD width="11%"><A class=footer_links 
+      href="http://www.freevbcode.com/legal.asp">Legal</A></TD>
+    <TD width="11%"><A class=footer_links 
+      href="http://www.freevbcode.com/awards.asp">Awards</A></TD>
+    <TD align=middle width="11%"><A class=footer_links 
+      href="http://www.freevbcode.com/contact.asp">Contact</A></TD>
+    <TD align=right width="12%"><A class=footer_links 
+      href="http://www.freevbcode.com/privacy.asp">Privacy</A></TD>
+    <TD align=right><A class=footer_links 
+      href="http://www.freevbcode.com/Advertise.asp">Advertise</A></TD></TR></TBODY></TABLE>
+<HR>
+
+<P>
+<SCRIPT>tablebottom();</SCRIPT>
+</P></BODY></HTML>

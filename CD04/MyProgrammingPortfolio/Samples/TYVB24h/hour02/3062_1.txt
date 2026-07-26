@@ -1,0 +1,5 @@
+Private Sub cmdExit_Click()
+' Unload the form and terminate application
+Unload frmInterest
+End
+End Sub

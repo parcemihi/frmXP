@@ -1,0 +1,29 @@
+If (intAge = 5) Then
+  lblTitle.Caption = “Kindergarten”
+  Else
+    If (intAge = 6) Then
+      lblTitle.Caption = “1st Grade”
+    Else
+      If (intAge = 7) Then
+        lblTitle.Caption = “2nd Grade”
+      Else
+        If (intAge = 8) Then
+          lblTitle.Caption = “3rd Grade”
+        Else
+          If (intAge = 9) Then
+            lblTitle.Caption = “4th Grade”
+          Else
+            If (intAge = 10) Then
+              lblTitle.Caption = “5th Grade”
+            Else
+              If (intAge = 11) Then
+                lblTitle.Caption = “6th Grade”
+              Else
+                lblTitle.Caption = “Advanced”
+              End If
+            End If
+          End If
+        End If
+      End If
+    End If
+End If

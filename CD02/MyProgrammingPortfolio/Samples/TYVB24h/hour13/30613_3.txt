@@ -1,0 +1,17 @@
+Sub Changes(N As Integer, S As Single)
+' Receives arguments by reference
+N = N * 2 ' Double both
+S = S * 2 '   arguments
+' When the calling routine regains control,
+' its two local variables will now be twice
+' as much as they were before calling this.
+End Sub
+
+Sub NoChanges(ByVal N As Integer, ByVal S As Single)
+' Receives arguments by value
+N = N * 2   ' Double both
+S = S * 2     '   arguments
+' When the calling routine regains control,
+' its two local variables will not be
+' changed from their original values.
+End Sub

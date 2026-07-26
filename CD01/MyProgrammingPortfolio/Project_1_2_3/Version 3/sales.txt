@@ -1,0 +1,14 @@
+1111,100,14,1,"Chianti Riserva Classico (Banfi)   ",7.5
+1111,100,13,1,"Chianti (Banfi)                    ",5.5
+1111,100,13,1,"Chianti (Banfi)                    ",5.5
+1111,100,14,1,"Chianti Riserva Classico (Banfi)   ",7.5
+1111,100,11,1,"Cabernet Sauvignon (Haywood)       ",5
+1111,100,13,1,"Chianti (Banfi)                    ",5.5
+1111,100,13,1,"Chianti (Banfi)                    ",5.5
+1111,100,13,1,"Chianti (Banfi)                    ",5.5
+1111,100,14,1,"Chianti Riserva Classico (Banfi)   ",7.5
+1111,100,15,1,"Pinot Noir (Indigo Hills)          ",5
+1111,100,18,1,"Zinfandel (Boeger Estate)          ",8
+1111,100,21,1,"Merlot (Lindemans Reserve)         ",7.5
+1111,100,20,1,"Merlot (Talus)                     ",5
+1111,100,19,1,"Petit Syrah (Foppiano)             ",10.95

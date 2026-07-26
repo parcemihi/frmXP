@@ -1,0 +1,5 @@
+frmTicTacToe = 44, 44, 436, 390, , 70, 17, 462, 363, C
+modCheckWin = 66, 66, 529, 412, C
+modReset = 14, 23, 477, 369, C
+modCompPlay = 44, 44, 507, 390, C
+modYourPlay = 110, 110, 573, 456, C

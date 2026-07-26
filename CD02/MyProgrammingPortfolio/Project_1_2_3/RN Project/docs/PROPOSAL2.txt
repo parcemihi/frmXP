@@ -1,0 +1,37 @@
+ P R O P O S A L
+
+
+Project Definition:  
+
+Develop software that will enable the end user to standardize media and other educational material inventory.  This will include videotapes, audiocassettes, books, magazines, periodicals, etc.  This standardization will enable quick look up, cross-referencing, and access to description of material and location by supervisors and other authorized personnel.  This will greatly reduce paperwork and avoid the purchase of duplicate items.  
+
+The current system is a combination of a paper lists and DOS based programs. All of which are outdated methods and are in multiple locations requiring a person to go from one workstation to another to access requested information.   An electronic format should be used allowing authorized personnel to access all material currently defined in the database.  Additionally, access can be realized in multiple locations at one time by multiple users.
+
+Beta Testing:
+
+The initial development of this software will be for the RN Department at MATC and will be used solely in this department during the Beta stages of development.
+
+Proprietary Information:
+
+Keith Geiser of KEG Enterprises and his associates will develop this software.  All data will be proprietary to KEG Enterprises and may not be sold, copied, (get language from Maureen) to any other company, school, department or individual.
+
+Permission To Use:
+
+KEG Enterprises grants permission to the RN Department at MATC to be the sole user of this software during the Beta stages of development.  
+
+Development Costs:
+
+All costs associated with the development of the software will be the responsibility of KEG Enterprises.  All costs associated with the implementation of the software, e.g. scanner devices, printers, cables, etc. will be the responsibility of MATC RN Department.
+
+
+Roll Out: 
+
+Barring unforeseen complications, this project should be completed within ___ months after final approval and funding.
+
+Future Development and Sales:
+
+All future sales of this product will be done solely through KEG Enterprises and/or its assigns.
+
+Cost To The RN Department at MATC:
+
+No additional

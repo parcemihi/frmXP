@@ -1,0 +1,32 @@
+Sub cmdIntr_Click ()
+ ' Use a For loop to calculate a final total
+ ' investment using compound interest.
+ '
+ ' intNum is a loop control variable
+ ' sngIRate is the annual interest rate
+ ' intTerm is the Number of years in the investment
+ ' curInitInv is the investor's initial investment
+ ' sngInterest is the total interest paid
+Dim sngIRate As Single, sngInterest As Single
+Dim intTerm As Integer, intNum As Integer
+Dim curInitInv As Currency
+
+sngIRate = .08
+intTerm = 5
+' Watch out... The Code window might convert the
+' following literals, 1000.00 and 1.0, to double-
+' precision literals with the suffix # to ensure
+' accuracy.
+curInitInv = 1000.00
+sngInterest = 1.0  ' Begin at one for first compound
+
+' Use loop to calculate total compound amount
+For intNum = 1 To intTerm
+sngInterest = sngInterest * (1 + sngIRate)
+Next intNum
+
+' Now we have total interest,
+' calculate the total investment
+' at the end of[]years
+lblFinalInv.Caption = curInitInv * sngInterest
+End Sub

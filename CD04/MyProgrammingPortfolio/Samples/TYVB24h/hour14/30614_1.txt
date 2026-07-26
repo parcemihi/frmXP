@@ -1,0 +1,17 @@
+Dim lngBefore As Long
+Dim lngAfter As Long
+Dim lngTimeDiff As Long
+Dim strAns As String
+
+lngBefore = Timer   ' Save seconds since midnight
+Do
+strAns = InputBox("What is 150 + 235?", "Hurry")
+Loop Until Val(strAns) = 385
+
+lngAfter = Timer    ' Save seconds since midnight now
+
+ ' The difference between the stored time values
+ ' is how many seconds the user took to answer
+lngTimeDiff = lngAfter - lngBefore
+MsgBox ("That took you only " & Str(lngTimeDiff) & _
+" seconds!")

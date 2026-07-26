@@ -1,0 +1,6 @@
+READ ME
+
+Digital Clock Control
+---------------------------------
+
+This is an ActiveX control, that simulates a digital clock.

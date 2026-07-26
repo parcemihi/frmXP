@@ -1,0 +1,12 @@
+convertor.bas
+Convertor.exe
+Convertor.frm
+Convertor.vbp
+Convertor.vbw
+edit.bat
+frmAbout.frm
+frmAbout.frx
+frmFunctions.bas
+list.txt
+modError.bas
+modFunctions.bas

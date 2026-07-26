@@ -1,0 +1,7 @@
+frmMain = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmWordWrap = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmButton = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmCheck = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmText = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmImages = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmOptions = 0, 0, 0, 0, C, 0, 0, 0, 0, C

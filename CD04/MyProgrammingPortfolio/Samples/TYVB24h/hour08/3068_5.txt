@@ -1,0 +1,4 @@
+IntSum = 0
+For intNumber = 1 To 100   ' Only this line changes
+IntSum = IntSum + IntNumber
+Next intNumber

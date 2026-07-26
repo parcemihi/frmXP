@@ -1,0 +1,4 @@
+Line 124: Class MSComDlg.CommonDialog of control dlgDialog was not a loaded control class.
+Line 127: The property name _ExtentX in dlgDialog is invalid.
+Line 128: The property name _ExtentY in dlgDialog is invalid.
+Line 124: Property FontSize in dlgDialog could not be set.

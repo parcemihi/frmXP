@@ -1,0 +1,21 @@
+Dim FormValue (8) As String
+' Change 12345.678 to $12,345.68
+FormValue(1) = Format(12345.678, "Currency")
+
+' Change 12345678 to 12345.68
+FormValue(2) = Format(12345.678, "Fixed")
+
+' Change .52 to 52.00%
+FormValue(3) = Format(.52, "Percent")
+
+' Change 1 to Yes
+FormValue(4) = Format(1, "Yes/No")
+
+' Change 0 to No
+FormValue(5) = Format(0, "Yes/No")
+
+' Change 1 to True
+FormValue(6) = Format(1, "True/False")
+
+' Change 0 to False
+FormValue(7)= Format(0, "True/False")

@@ -1,0 +1,7 @@
+// RECURSIVE QUICKSORT ALGORITHM IN THE C PROGRAMMING LANGUAGE
+
+void QSort(void *base, Word low, Word high, Word size, 
+
+SWord (*compare)(void *, void *), 
+
+void (*swap)(void *, void *) )

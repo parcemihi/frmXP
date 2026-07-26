@@ -1,0 +1,120 @@
+case 3 'Return without GoSub 
+case 5 'Invalid procedure call 
+case 6 'Overflow 
+case 7 'Out of memory 
+case 9 'Subscript out of range 
+case 10 'This array is fixed or temporarily locked 
+case 11 'Division by zero 
+case 13 'Type mismatch 
+case 14 'Out of string space 
+case 16 'Expression too complex 
+case 17 'Can't perform requested operation 
+case 18 'User interrupt occurred 
+case 20 'Resume without error 
+case 28 'Out of stack space 
+case 35 'Sub, Function, or Property not defined 
+case 47 'Too many DLL application clients 
+case 48 'Error in loading DLL 
+case 49 'Bad DLL calling convention 
+case 51 'Internal error 
+case 52 'Bad file name or number 
+case 53 'File not found 
+case 54 'Bad file mode 
+case 55 'File already open 
+case 57 'Device I/O error 
+case 58 'File already exists 
+case 59 'Bad record length 
+case 61 'Disk full 
+case 62 'Input past end of file 
+case 63 'Bad record number 
+case 67 'Too many files 
+case 68 'Device unavailable 
+case 70 'Permission denied 
+case 71 'Disk not ready 
+case 74 'Can't rename with different drive 
+case 75 'Path/File access error 
+case 76 'Path not found 
+case 91 'Object variable or With block variable not set 
+case 92 'For loop not initialized 
+case 93 'Invalid pattern string 
+case 94 'Invalid use of Null 
+case 97 'Can't call Friend procedure on an object that is not an instance of the defining class 
+case 98 'A property or method call cannot include a reference to a private object, either as an argument or as a return value 
+case 298 'System DLL could not be loaded 
+case 320 'Can't use character device names in specified file names 
+case 321 'Invalid file format 
+case 322 'Can’t create necessary temporary file 
+case 325 'Invalid format in resource file 
+case 327 'Data value named not found 
+case 328 'Illegal parameter; can't write arrays 
+case 335 'Could not access system registry 
+case 336 'Component not correctly registered  
+case 337 'Component not found 
+case 338 'Component did not run correctly 
+case 360 'Object already loaded 
+case 361 'Can't load or unload this object 
+case 363 'Control specified not found 
+case 364 'Object was unloaded 
+case 365 'Unable to unload within this context 
+case 368 'The specified file is out of date. This program requires a later version 
+case 371 'The specified object can't be used as an owner form for Show 
+case 380 'Invalid property value 
+case 381 'Invalid property-array index 
+case 382 'Property Set can't be executed at run time 
+case 383 'Property Set can't be used with a read-only property 
+case 385 'Need property-array index 
+case 387 'Property Set not permitted 
+case 393 'Property Get can't be executed at run time 
+case 394 'Property Get can't be executed on write-only property 
+case 400 'Form already displayed; can't show modally 
+case 402 'Code must close topmost modal form first 
+case 419 'Permission to use object denied 
+case 422 'Property not found 
+case 423 'Property or method not found 
+case 424 'Object required 
+case 425 'Invalid object use 
+case 429 'Component can't create object or return reference to this object 
+case 430 'Class doesn't support Automation 
+case 432 'File name or class name not found during Automation operation 
+case 438 'Object doesn't support this property or method 
+case 440 'Automation error 
+case 442 'Connection to type library or object library for remote process has been lost 
+case 443 'Automation object doesn't have a default value 
+case 445 'Object doesn't support this action 
+case 446 'Object doesn't support named arguments 
+case 447 'Object doesn't support current locale setting 
+case 448 'Named argument not found 
+case 449 'Argument not optional or invalid property assignment 
+case 450 'Wrong number of arguments or invalid property assignment 
+case 451 'Object not a collection 
+case 452 'Invalid ordinal 
+case 453 'Specified not found 
+case 454 'Code resource not found 
+case 455 'Code resource lock error 
+case 457 'This key is already associated with an element of this collection 
+case 458 'Variable uses a type not supported in Visual Basic 
+case 459 'This component doesn't support the set of events 
+case 460 'Invalid Clipboard format 
+case 461 'Method or data member not found 
+case 462 'The remote server machine does not exist or is unavailable 
+case 463 'Class not registered on local machine 
+case 480 'Can't create AutoRedraw image 
+case 481 'Invalid picture 
+case 482 'Printer error 
+case 483 'Printer driver does not support specified property 
+case 484 'Problem getting printer information from the system. Make sure the printer is set up correctly 
+case 485 'Invalid picture type 
+case 486 'Can't print form image to this type of printer 
+case 520 'Can't empty Clipboard 
+case 521 'Can't open Clipboard 
+case 735 'Can't save file to TEMP directory 
+case 744 'Search text not found 
+case 746 'Replacements too long 
+case 31001 'Out of memory 
+case 31004 'No object 
+case 31018 'Class is not set 
+case 31027 'Unable to activate object 
+case 31032 'Unable to create embedded object 
+case 31036 'Error saving to file 
+case 31037 'Error loading from file 
+

@@ -1,0 +1,19 @@
+Load records
+Add Records
+Delete Records
+Update Database
+Restore Deleted Records (row)
+
+scroll records
+
+List records
+sort records
+filter records
+
+
+Print records
+Print filtered records
+Format printed output by priority
+
+
+

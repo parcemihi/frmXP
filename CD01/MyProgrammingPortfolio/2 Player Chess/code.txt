@@ -1,0 +1,19 @@
+'Type Pieces
+'    Rook As Integer
+'    Knight As Integer
+'    Bishop As Integer
+'    Queen As Integer
+'    Pawn As Integer
+'End Type
+'
+'Type Sides
+'    QueenSide As Pieces
+'    KingSide As Pieces
+'End Type
+'
+'Type Teams
+'    White As Sides
+'    Black As Sides
+'End Type
+'Dim setup As Teams
+

@@ -1,0 +1,58 @@
+Private Sub Form_Load()
+' Initialize the label's text
+Dim strLabel1 As String
+Dim strLabel2 As String
+Dim strLabel3 As String
+Dim strLabel4 As String
+
+strLabel1 = "Use frames if you want "
+strLabel2 = "to group options together. "
+strLabel3 = "Each frame forms one set "
+strLabel4 = "of option buttons."
+
+lblFrames.Caption = strLabel1 & strLabel2 & _
+strLabel3 & strLabel4
+
+' Set the label's properties
+lblFrames.FontItalic = True
+optItalicTrue.Value = True
+
+lblFrames.FontUnderline = True
+optUnderTrue.Value = True
+
+lblFrames.ForeColor = vbBlue
+optBlue.Value = True
+End Sub
+
+Private Sub optItalicTrue_Click()
+lblFrames.FontUnderline = True
+End Sub
+
+Private Sub optItalicFalse_Click()
+lblFrames.FontUnderline = False
+End Sub
+
+Private Sub optRed_Click()
+lblFrames.ForeColor = vbRed
+End Sub
+
+Private Sub optBlue_Click()
+lblFrames.ForeColor = vbBlue
+End Sub
+
+Private Sub optGreen_Click()
+lblFrames.ForeColor = vbGreen
+End Sub
+
+Private Sub optUnderTrue_Click()
+lblFrames.FontItalic = True
+End Sub
+
+Private Sub optUnderFalse_Click()
+lblFrames.FontItalic = False
+End Sub
+
+Private Sub cmdExit_Click()
+Unload Me
+End
+End Sub

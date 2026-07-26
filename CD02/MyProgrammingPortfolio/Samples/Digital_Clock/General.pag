@@ -1,0 +1,81 @@
+VERSION 5.00
+Begin VB.PropertyPage General 
+   Caption         =   "General"
+   ClientHeight    =   3495
+   ClientLeft      =   0
+   ClientTop       =   0
+   ClientWidth     =   5925
+   PaletteMode     =   0  'Halftone
+   ScaleHeight     =   3495
+   ScaleWidth      =   5925
+   Begin VB.TextBox txtSetAlarmHr 
+      Height          =   285
+      Left            =   1710
+      TabIndex        =   2
+      Top             =   930
+      Width           =   885
+   End
+   Begin VB.TextBox txtSetAlarmMin 
+      Height          =   330
+      Left            =   1710
+      TabIndex        =   4
+      Top             =   1560
+      Width           =   900
+   End
+   Begin VB.CheckBox chkEnabled 
+      Caption         =   "Enabled"
+      Height          =   285
+      Left            =   3780
+      TabIndex        =   0
+      Top             =   1290
+      Width           =   990
+   End
+   Begin VB.Label lblSetAlarmMin 
+      Caption         =   "SetAlarmMin:"
+      Height          =   240
+      Left            =   570
+      TabIndex        =   3
+      Top             =   1620
+      Width           =   1140
+   End
+   Begin VB.Label lblSetAlarmHr 
+      Caption         =   "SetAlarmHr:"
+      Height          =   240
+      Left            =   570
+      TabIndex        =   1
+      Top             =   960
+      Width           =   1125
+   End
+End
+Attribute VB_Name = "General"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = True
+Attribute VB_PredeclaredId = False
+Attribute VB_Exposed = True
+Option Explicit
+Private Sub txtSetAlarmMin_Change()
+    Changed = True
+End Sub
+
+
+Private Sub txtSetAlarmHr_Change()
+    Changed = True
+End Sub
+
+Private Sub chkEnabled_Click()
+    Changed = True
+End Sub
+
+Private Sub PropertyPage_ApplyChanges()
+    SelectedControls(0).SetAlarmMin = txtSetAlarmMin.Text
+    SelectedControls(0).SetAlarmHr = txtSetAlarmHr.Text
+    SelectedControls(0).Enabled = (chkEnabled.Value = vbChecked)
+End Sub
+
+Private Sub PropertyPage_SelectionChanged()
+    txtSetAlarmMin.Text = SelectedControls(0).SetAlarmMin
+    txtSetAlarmHr.Text = SelectedControls(0).SetAlarmHr
+    chkEnabled.Value = (SelectedControls(0).Enabled And vbChecked)
+End Sub
+
+

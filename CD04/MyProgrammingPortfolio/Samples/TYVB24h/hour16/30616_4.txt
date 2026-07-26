@@ -1,0 +1,3 @@
+Printer.Print "The Report begins on the next page..."
+Printer.NewPage  ' Go to top of new page
+Printer.Print "The Campaign Platform"

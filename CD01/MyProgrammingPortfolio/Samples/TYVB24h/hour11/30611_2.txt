@@ -1,0 +1,4 @@
+Private Sub vsbHeight_Change()
+lblScroll.FontSize = vsbHeight.Value
+lblFontHeight.Caption = vsbHeight.Value
+End Sub

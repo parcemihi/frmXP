@@ -1,0 +1,5 @@
+playform = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+loadform = 110, 110, 489, 456, Z, 44, 44, 423, 390, C
+globdim = 0, 0, 0, 0, C
+frmSplash = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+rEsTaRt = 0, 0, 0, 0, C

@@ -1,0 +1,61 @@
+drop table RNvideo
+drop table RNlocations
+
+create table RNvideo(ID integer primary key, title char (20), location char (4))
+create table RNlocations(ID integer primary  key, location char (4), foreign key location references RNvideo)
+
+/* PARENT */ insert into RNvideo values (111, 'Hemotology', 'H126')
+/* PARENT */ insert into RNvideo values (222, 'Gerontology', 'H126')
+/* PARENT */ insert into RNvideo values (333, 'Pharmacology', 'H126')
+/* PARENT */ insert into RNvideo values (444, 'Orthopediatry', 'H126')
+/* CHILD  */ insert into RNlocations values (1, 'H126')
+/* CHILD  */ insert into RNlocations values (2, 'H350')
+
+select * from RNvideo
+select * from RNlocations
+
+
+
+
+
+			on  delete set null on delete restrict
+
+
+
+insert into keithcust(111, 'johnson')
+
+
+
+create table RNlocations (ID integer primary  key, whensold date, amount decimal (9,2), custid integer , 
+		foreign key custid references keithcust.custid,
+			on  delete set null on delete restrict
+
+GRANT select on 'TABLE NAME' * to keithsview 
+
+cust1, custname, invno, invdate, invamt , cust2
+
+
+
+select sum(amount) from keithinv
+
+select custid , sum(amount) as 'Money' from keithinv
+	group by custid
+
+select custid as 'Who', sum(amount) as 'Money','*' as ' ' from keithinv
+	group by custid
+
+
+select custid as 'Who', sum(amount) as 'Money','*' as ' ' from keithinv
+	where invoice <> 11113
+	group by custid
+	having sum(amount) > 600
+
+select custid as 'Who', sum(amount) as 'Money','*' as ' ' from keithinv
+	where invoice <> 11113
+	group by custid
+	having sum(amount) > 600
+union
+  
+
+
+

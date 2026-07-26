@@ -1,0 +1,18 @@
+Dim strAge As String
+Dim intAge As Integer
+Dim intPress As Integer
+
+Do
+strAge = InputBox("How old are you?", "Age Ask")
+' Check for the Cancel command button
+If (strAge = "") Then
+End   ' Terminate program
+End If
+intAge = Val(strAge)
+
+If ((intAge < 10) Or (intAge > 99)) Then
+' The user's age is out of range
+intPress = MsgBox("Your age must be between " & _
+"10 and 99", vbExclamation, "Error!")
+End If
+Loop While ((intAge < 10) Or (intAge > 99))

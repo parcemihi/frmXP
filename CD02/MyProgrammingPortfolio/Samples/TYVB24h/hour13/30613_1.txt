@@ -1,0 +1,20 @@
+Private Sub CostOfSales()
+‘ Computes a cost of sales and
+‘ displays that code in a label
+Dim curGrossSales As Currency
+Dim curCostSales As Currency
+Dim sngOverHead As Single
+Dim sngInventoryFctr As Single
+Dim sngPilferFctr As Single
+
+‘ Store initial variable values from controls
+curGrossSales = txtGross.Text
+sngInventoryFctr = txtTotalInv.Text * 0.38
+sngPilferFctr = txtPilfer.Text
+sngOverHead = 0.21 ‘ Fixed overhead percentage
+
+curCostSales = curGrossSales - (sngInventoryFctr * curGrossSales)
+curCostSales = curCostSales - (sngPilferFctr * curGrossSales)
+curCostSales = curCostSales - (sngOverHead * curGrossSales)
+lblCost.Caption = Format(curCostSales, “Currency”)
+End Sub

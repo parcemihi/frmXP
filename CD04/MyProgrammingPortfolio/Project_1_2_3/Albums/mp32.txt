@@ -1,0 +1,392 @@
+
+ Volume in drive E is 001218_0709
+ Volume Serial Number is 716B-C4E0
+
+Directory of E:\
+
+BANGLES        <DIR>        12-18-00  7:09a bangles
+BILLHA~7       <DIR>        12-18-00  7:09a Bill Haley and his comets - best of
+BLONDI~9       <DIR>        12-18-00  7:09a Blondie - No Exit
+BRIAN~11       <DIR>        12-18-00  7:09a Brian Setzer Orchestra
+CH10-~14 MP3     6,016,536  10-28-99  1:23a CH10-25-99.mp3
+DANIE~13       <DIR>        12-18-00  7:09a Daniel Amos
+DESKTOP  INI            61  04-29-00  8:30a desktop.ini
+DIRES~15       <DIR>        12-18-00  7:09a Dire Straits - Greatist Hits
+ELVIS          <DIR>        12-18-00  7:09a Elvis
+GOGOS~19       <DIR>        12-18-00  7:09a GoGos - Greatist Hits
+JOHNF~26 TXT           487  04-18-00  9:28a John Fogerty.txt
+LEFTF~21       <DIR>        12-18-00  7:09a Leftfield - Rythem and Stealth
+MP3CD~30 DDF        89,438  05-26-00 12:46p mp3 CD 1.ddf
+STRYP~23       <DIR>        12-18-00  7:09a Stryper - Yellow and Black attack
+THECU~25       <DIR>        12-18-00  7:09a The Cult - Sonic Temple
+THEDA~27       <DIR>        12-18-00  7:09a The Daniel Band - On Rock
+VARIOUS        <DIR>        12-18-00  7:09a Various
+Z-SCA~31       <DIR>        12-18-00  7:09a Z - Scans
+         4 file(s)      6,106,522 bytes
+
+Directory of E:\bangles
+
+.              <DIR>        12-18-00  7:09a .
+..             <DIR>        12-18-00  7:09a ..
+01MANI~6 MP3     2,970,725  11-26-00 10:10a 01 Manic monday.mp3
+02INAD~8 MP3     2,760,492  11-26-00 10:11a 02 In a different light.mp3
+03WAL~10 MP3     2,951,917  11-26-00 10:13a 03 walking down your street.mp3
+04WAL~12 MP3     3,275,878  11-26-00 10:15a 04 Walk like an egyptian.mp3
+05STA~14 MP3     2,826,947  11-26-00 10:16a 05 standing in the hallway.mp3
+06RET~16 MP3     4,192,838  11-26-00 10:18a 06 return post.mp3
+07IFS~18 MP3     3,675,405  11-26-00 10:20a 07 if she knew what she wants.mp3
+08LET~20 MP3     2,433,648  11-26-00 10:21a 08 let it go.mp3
+09SEP~22 MP3     2,648,479  11-26-00 10:23a 09 september gurls.mp3
+10ANG~24 MP3     3,261,625  11-26-00 10:25a 10 angels dont fall in love.mp3
+11FOL~26 MP3     3,224,009  11-26-00 10:26a 11 following.mp3
+12NOT~28 MP3     2,988,280  11-26-00 10:28a 12 not like you.mp3
+        12 file(s)     37,210,243 bytes
+
+Directory of E:\Bill Haley and his comets - best of
+
+.              <DIR>        12-18-00  7:09a .
+..             <DIR>        12-18-00  7:09a ..
+01ROCK~6 MP3     2,108,511  12-02-00  3:29p 01 rock around the clock.mp3
+02SHAK~8 MP3     2,424,508  12-02-00  3:40p 02 shake rattle and roll.mp3
+03THI~10 MP3     2,792,309  12-02-00  3:34p 03 thirteen women.mp3
+04DIM~12 MP3     2,440,785  12-02-00  3:35p 04 dim dim the lights.mp3
+05RUD~14 MP3     2,605,891  12-02-00  3:37p 05 rudys rock.mp3
+06RAZ~16 MP3     2,624,706  12-02-00  3:39p 06 razzle dazzle.mp3
+07THE~18 MP3     3,372,007  12-02-00  3:32p 07 the saints rock.mp3
+08SKI~20 MP3     2,871,711  12-02-00  3:49p 08 skinny minnie.mp3
+09ROC~22 MP3     2,279,049  12-02-00  3:44p 09 r o c k.mp3
+10BUR~24 MP3     2,673,600  12-02-00  3:46p 10 burn that candle.mp3
+11ROC~26 MP3     2,260,244  12-02-00  3:47p 11 rock a beatin boogie.mp3
+12SEE~28 MP3     2,628,417  12-02-00  3:43p 12 see you later aligator.mp3
+        12 file(s)     31,081,738 bytes
+
+Directory of E:\Blondie - No Exit
+
+.              <DIR>        12-18-00  7:09a .
+..             <DIR>        12-18-00  7:09a ..
+01SCRE~6 MP3     5,359,534  12-01-00  3:16a 01 screaming skin.mp3
+02FORG~8 MP3     4,345,570  12-01-00  3:16a 02 forgive and forget.mp3
+03MAR~10 MP3     4,658,623  12-01-00  3:16a 03 maria.mp3
+04NOE~12 MP3     4,143,691  12-01-00  3:16a 04 no exit.mp3
+05DOU~14 MP3     4,032,515  12-01-00  3:16a 05 double take.mp3
+06NOT~16 MP3     3,090,430  12-01-00  3:20a 06 nothing is real but the girl.mp3
+07BOO~18 MP3     3,978,609  12-01-00  3:16a 07 boom boom in the zoom zoom room.mp3
+08NIG~20 MP3     4,485,993  12-01-00  3:16a 08 night wind sent.mp3
+09UND~22 MP3     3,984,864  12-01-00  3:17a 09 under the gun.mp3
+10OUT~24 MP3     2,932,450  12-01-00  3:17a 10 out in the streets.mp3
+11HAP~26 MP3     3,263,892  12-01-00  3:17a 11 happy dog.mp3
+12THE~28 MP3     3,186,554  12-01-00  3:17a 12 the dreams lost on me.mp3
+13DIV~30 MP3     4,075,988  12-01-00  3:17a 13 Divine.mp3
+14DIG~32 MP3     4,814,471  12-01-00  3:17a 14 Dig up the conjo.mp3
+15DRE~34 MP3     3,172,357  12-01-00  3:19a 15 Dreamin.mp3
+16CAL~36 MP3     4,577,953  12-01-00  3:17a 16 Call Me.mp3
+17RAP~38 MP3     7,032,163  12-01-00  3:17a 17 Rapture.mp3
+        17 file(s)     71,135,657 bytes
+
+Directory of E:\Brian Setzer Orchestra
+
+.              <DIR>        12-18-00  7:09a .
+..             <DIR>        12-18-00  7:09a ..
+01THIS~6 MP3     2,221,325  12-02-00  2:12p 01 this cats on a hot tin roof.mp3
+02THED~8 MP3     3,096,994  12-02-00  2:30p 02 the dirty boogie.mp3
+03THI~10 MP3     2,989,534  12-02-00  2:20p 03 this old house.mp3
+04LET~12 MP3     3,550,017  12-02-00  2:17p 04 lets live it up.mp3
+05SLE~14 MP3     3,672,061  12-02-00  2:19p 05 sleepwalk.mp3
+06JUM~16 MP3     2,780,972  12-02-00  2:15p 06 jump jive an wail.mp3
+07YOU~18 MP3     3,576,766  12-02-00  2:48p 07 youre the boss.mp3
+08ROC~20 MP3     6,361,210  12-02-00  2:38p 08 rock this town.mp3
+09SIN~22 MP3     3,988,456  12-02-00  2:40p 09 since i dont have you.mp3
+10SWI~24 MP3     3,367,419  12-02-00  2:42p 10 switchblade 327.mp3
+11NOS~26 MP3     2,798,526  12-02-00  2:43p 11 nosey joe.mp3
+12HOL~28 MP3     5,384,440  12-02-00  2:46p 12 hollywood nocturne.mp3
+13ASL~30 MP3     3,901,101  12-02-00  2:34p 13 as long as im singin.mp3
+        13 file(s)     47,688,821 bytes
+
+Directory of E:\Daniel Amos
+
+.              <DIR>        12-18-00  7:09a .
+..             <DIR>        12-18-00  7:09a ..
+ALARMA   MP3     3,256,320  06-04-00  7:20p Alarma.mp3
+BABYGA~8 MP3     2,631,680  06-04-00  7:26p Baby Game.mp3
+BABYG~10 TXT         1,437  06-04-00  8:32p Baby Game.txt
+BIGTI~12 MP3     2,967,552  06-04-00  7:22p Big Time-Big Deal.mp3
+CANDD~14 MP3       716,800  06-04-00  7:25p C and D Reprise.mp3
+CENTR~16 MP3     3,241,984  06-04-00  7:20p Central Theme.mp3
+CLOAK~18 MP3     2,211,840  06-04-00  7:24p Cloak and Dagger.mp3
+COLOR~20 MP3     2,719,744  06-04-00  7:25p Colored by.mp3
+ENDLE~22 MP3     2,760,704  06-04-00  7:26p Endless summer.mp3
+ENDLE~24 TXT           901  06-04-00  8:03p Endless Summer.txt
+FACES~26 MP3     2,433,024  06-04-00  7:24p Faces to the window.mp3
+GHOST~28 MP3     2,879,488  06-04-00  7:27p Ghost of the heart.mp3
+HITTH~30 MP3     2,373,632  06-04-00  7:25p Hit Them.mp3
+MYROO~32 MP3     3,256,320  06-04-00  7:24p My Room.mp3
+PROPS    MP3     1,916,928  06-04-00  7:23p Props.mp3
+SHEDD~36 MP3     1,290,240  06-04-00  7:26p Shedding the mortal coil.mp3
+THROU~38 MP3     2,586,624  06-04-00  7:51p Through the speakers.mp3
+THROU~40 TXT         1,888  06-04-00  7:52p Through the speakers.txt
+WALLS~42 MP3     3,772,416  06-04-00  7:27p Walls of doubt.mp3
+        19 file(s)     41,019,522 bytes
+
+Directory of E:\Dire Straits - Greatist Hits
+
+.              <DIR>        12-18-00  7:09a .
+..             <DIR>        12-18-00  7:09a ..
+01_SUL~6 MP3     5,607,424  04-30-00  1:00a 01_Sultans of swing.mp3
+02_LAD~8 MP3     3,665,920  04-30-00  1:00a 02_Lady writer.mp3
+03_RO~10 MP3     5,840,896  04-30-00  1:01a 03_Romeo and juliet.mp3
+04_TU~12 MP3     7,913,472  04-30-00  1:01a 04_Tunnel of love.mp3
+05_PR~14 MP3     5,670,912  04-30-00  1:01a 05_Private investigations.mp3
+06_TW~16 MP3     3,457,024  04-30-00  1:01a 06_Twisting by the pool.mp3
+07_LO~18 MP3     3,532,800  04-30-00  1:01a 07_Love over gold live.mp3
+08_SO~20 MP3     3,895,296  04-30-00  1:02a 08_So far away.mp3
+09_MO~22 MP3     3,995,648  04-30-00  1:02a 09_Money for nothing.mp3
+10_BR~24 MP3     4,722,688  04-30-00  1:02a 10_Brothers in arms.mp3
+11_WA~26 MP3     4,040,704  04-30-00  1:02a 11_Walk of life.mp3
+12_CA~28 MP3     4,505,600  04-30-00  1:02a 12_Calling elvis.mp3
+13_HE~30 MP3     4,829,184  04-30-00  1:03a 13_Heavy fuel.mp3
+14_ON~32 MP3     4,468,736  04-30-00  1:03a 14_On every street.mp3
+15_YO~34 MP3     5,466,112  04-30-00  1:03a 15_Your latest trick live.mp3
+16_LO~36 MP3     4,225,024  04-30-00  1:03a 16_Local hero~Wild theme live.mp3
+        16 file(s)     75,837,440 bytes
+
+Directory of E:\Elvis
+
+.              <DIR>        12-18-00  7:09a .
+..             <DIR>        12-18-00  7:09a ..
+JAILHO~6 MP3     2,332,136  11-25-00  8:14p Jail House Rock.mp3
+         1 file(s)      2,332,136 bytes
+
+Directory of E:\GoGos - Greatist Hits
+
+.              <DIR>        12-18-00  7:09a .
+..             <DIR>        12-18-00  7:09a ..
+01OURL~6 MP3     2,666,451  11-26-00  5:04a 01 Our lips are sealed.mp3
+02COOL~8 MP3     3,001,654  11-26-00  4:42a 02 Cool Jerk.mp3
+03WEG~10 MP3     2,414,004  11-26-00  4:43a 03 We got the beat.mp3
+04HEA~12 MP3     3,470,605  11-26-00  4:45a 04 Head over heals.mp3
+05GET~14 MP3     3,149,612  11-26-00  4:47a 05 Get up and go.mp3
+06VAC~16 MP3     2,877,101  11-26-00  4:49a 06 Vacation.mp3
+07BEA~18 MP3     2,750,043  11-26-00  4:50a 07 Beatnik beach.mp3
+08YOU~20 MP3     4,129,726  11-26-00  4:53a 08 You thought.mp3
+09IMT~22 MP3     3,410,000  11-26-00  4:54a 09 Im the only one.mp3
+10THI~24 MP3     3,170,092  11-26-00  4:56a 10 This town.mp3
+11LUS~26 MP3     3,886,474  11-26-00  4:58a 11 Lust to love.mp3
+12MER~28 MP3     3,427,137  11-26-00  5:00a 12 Mercenary.mp3
+13HOW~30 MP3     2,940,632  11-26-00  5:02a 13 How much more.mp3
+14TUR~32 MP3     3,670,430  11-26-00  4:40a 14 Turn to you.mp3
+        14 file(s)     44,963,961 bytes
+
+Directory of E:\Leftfield - Rythem and Stealth
+
+.              <DIR>        12-18-00  7:09a .
+..             <DIR>        12-18-00  7:09a ..
+68WAR~6  MP3     4,042,127  05-22-00  6:43p 6 8 war.mp3
+AFRIKA~8 MP3     5,387,129  05-22-00  6:02p afrika shox.mp3
+CHANT~10 MP3     5,695,155  05-22-00  5:16p chant of a poor man.mp3
+DOUBL~12 MP3     4,031,255  05-22-00  5:29p double flash.mp3
+DUBGU~14 MP3     4,659,857  05-22-00  6:17p dub gussett.mp3
+DUSTED   MP3     4,506,058  05-22-00  4:44p dusted.mp3
+ELCID~18 MP3     5,790,456  05-22-00  5:46p el cid.mp3
+PHATP~20 MP3     5,181,894  05-22-00  4:59p phat planet.mp3
+RINO'~22 MP3     6,672,300  05-22-00  7:04p rino's prayer.mp3
+SWORDS   MP3     4,909,392  05-22-00  6:31p swords.mp3
+        10 file(s)     50,875,623 bytes
+
+Directory of E:\Stryper - Yellow and Black attack
+
+.              <DIR>        12-18-00  7:09a .
+..             <DIR>        12-18-00  7:09a ..
+01LOUD~6 MP3     3,347,418  12-04-00  9:59a 01 loud and clear.mp3
+02FROM~8 MP3     3,638,738  12-04-00  9:58a 02 from wrong to right.mp3
+03MYL~10 MP3     3,435,318  12-04-00 10:01a 03 my love ill always show.mp3
+04YOU~12 MP3     4,473,747  12-04-00 10:04a 04 you know what to do.mp3
+         4 file(s)     14,895,221 bytes
+
+Directory of E:\The Cult - Sonic Temple
+
+.              <DIR>        12-18-00  7:09a .
+..             <DIR>        12-18-00  7:09a ..
+01SUNK~6 MP3     5,919,602  12-01-00  3:25a 01 Sun King.mp3
+02FIRE~8 MP3     4,975,006  12-01-00  3:25a 02 Fire Woman.mp3
+03AME~10 MP3     5,102,908  12-01-00  3:25a 03 American Horse.mp3
+04EDI~12 MP3     4,584,634  12-01-00  3:25a 04 Edie ciao baby.mp3
+05SWE~14 MP3     4,930,875  12-01-00  3:25a 05 Sweet Soul Sister.mp3
+06SOU~16 MP3     7,134,182  12-01-00  3:25a 06 Soul Asylum.mp3
+07NEW~18 MP3     4,501,890  12-01-00  3:25a 07 New York City.mp3
+08AUT~20 MP3     3,706,492  12-01-00  3:25a 08 Automatic Blues.mp3
+09SOL~22 MP3     4,419,968  12-01-00  3:25a 09 Soldier Blue.mp3
+10WAK~24 MP3     5,087,026  12-01-00  3:25a 10 wake up time for freedom.mp3
+11MED~26 MP3     4,480,557  12-01-00  3:25a 11 Medicine Train.mp3
+        11 file(s)     54,843,140 bytes
+
+Directory of E:\The Daniel Band - On Rock
+
+.              <DIR>        12-18-00  7:09a .
+..             <DIR>        12-18-00  7:09a ..
+01_HE'~6 MP3     3,738,870  07-10-00  3:59a 01_He's The Creator.mp3
+02_IMS~8 MP3     4,251,423  07-10-00  1:55a 02_Im Sorry.mp3
+03_YO~10 MP3     3,136,733  07-10-00  2:03a 03_You Dont Need The Blues.mp3
+04_FR~12 MP3     3,288,804  07-10-00  2:11a 04_Free From Sin.mp3
+05_UN~14 MP3     3,282,059  07-10-00  2:21a 05_Undercover Christian.mp3
+06_TW~16 MP3     2,681,539  07-10-00  2:32a 06_Two Roads.mp3
+07_NE~18 MP3     3,856,445  07-10-00  2:47a 07_Never Again.mp3
+08_IN~20 MP3     4,002,227  07-10-00  3:05a 08_In The Sky.mp3
+09_IL~22 MP3     2,928,207  07-10-00  3:17a 09_I Like To Rock.mp3
+10_SP~24 MP3     4,800,237  07-10-00  3:40a 10_Spiritual game.mp3
+11_SO~26 MP3     4,485,039  07-10-00  1:44a 11_Somebody Loves you.mp3
+        11 file(s)     40,451,583 bytes
+
+Directory of E:\Various
+
+.              <DIR>        12-18-00  7:09a .
+..             <DIR>        12-18-00  7:09a ..
+INDIAN~6 MP3     5,933,160  07-16-00 11:57p indiana_moondreamy_melody.mp3
+IN_A_S~8 MP3     3,026,110  07-17-00 12:22a in_a_shanty_in_old_shanty_.mp3
+MASTER~5       <DIR>        12-18-00  7:09a Masters of Turkish Music
+MY_LI~12 MP3     2,597,773  07-17-00 12:20a my_little_bimbo.mp3
+RAGGI~14 MP3     2,697,028  07-16-00 11:22p ragging_the_scale.mp3
+ROCKAN~7       <DIR>        12-18-00  7:09a rock and roll
+WABAS~18 MP3     3,034,168  07-16-00 11:35p wabash_blues.mp3
+         5 file(s)     17,288,239 bytes
+
+Directory of E:\Various\Masters of Turkish Music
+
+.              <DIR>        12-18-00  7:09a .
+..             <DIR>        12-18-00  7:09a ..
+AUDIOT~6 MP3     3,015,157  06-09-00  4:53a AudioTrack 01.mp3
+AUDIOT~8 MP3     3,042,742  06-09-00  5:02a AudioTrack 02.mp3
+AUDIO~10 MP3     3,359,555  06-09-00  5:12a AudioTrack 03.mp3
+AUDIO~12 MP3     2,717,152  06-09-00  5:20a AudioTrack 04.mp3
+AUDIO~14 MP3     3,366,243  06-09-00  5:31a AudioTrack 05.mp3
+AUDIO~16 MP3     3,969,776  06-09-00  5:43a AudioTrack 06.mp3
+AUDIO~18 MP3     6,083,813  06-09-00  6:03a AudioTrack 07.mp3
+AUDIO~20 MP3     3,127,588  06-09-00  6:12a AudioTrack 08.mp3
+AUDIO~22 MP3     3,702,282  06-09-00  6:24a AudioTrack 09.mp3
+AUDIO~24 MP3     3,649,619  06-09-00  6:35a AudioTrack 10.mp3
+AUDIO~26 MP3     2,603,467  06-09-00  6:43a AudioTrack 11.mp3
+AUDIO~28 MP3     2,769,397  06-09-00  6:51a AudioTrack 12.mp3
+AUDIO~30 MP3     3,117,975  06-09-00  7:01a AudioTrack 13.mp3
+AUDIO~32 MP3     2,895,203  06-09-00  7:10a AudioTrack 14.mp3
+AUDIO~34 MP3     3,183,177  06-09-00  7:19a AudioTrack 15.mp3
+AUDIO~36 MP3     2,972,107  06-09-00  7:28a AudioTrack 16.mp3
+AUDIO~38 MP3     3,286,829  06-09-00  7:39a AudioTrack 17.mp3
+AUDIO~40 MP3     3,507,931  06-09-00  7:50a AudioTrack 18.mp3
+AUDIO~42 MP3     3,038,145  06-09-00  7:59a AudioTrack 19.mp3
+AUDIO~44 MP3     4,088,107  06-09-00  8:12a AudioTrack 20.mp3
+        20 file(s)     67,496,265 bytes
+
+Directory of E:\Various\rock and roll
+
+.              <DIR>        12-18-00  7:09a .
+..             <DIR>        12-18-00  7:09a ..
+01WHOL~6 MP3     2,787,369  12-02-00 11:30p 01 whole lotta shakin goin on.mp3
+02JOHN~8 MP3     2,541,609  12-02-00 11:30p 02 johnny b good.mp3
+03TUT~10 MP3     2,347,676  12-02-00 11:30p 03 tutti frutti.mp3
+04BLU~12 MP3     2,205,804  12-02-00 11:30p 04 blue suede shoes.mp3
+05ROC~14 MP3     2,295,013  12-02-00 11:31p 05 r o c k.mp3
+06SUM~16 MP3     1,899,206  12-02-00 11:31p 06 summertime blues.mp3
+07GUI~18 MP3     2,554,933  12-02-00 11:31p 07 guitar boogie shuffle.mp3
+08CHA~20 MP3     2,314,657  12-02-00 11:31p 08 chantilly lace.mp3
+09KAN~22 MP3     2,387,382  12-02-00 11:32p 09 kansas city.mp3
+10ROC~24 MP3     2,502,321  12-02-00 11:32p 10 rockin robin.mp3
+11BYE~26 MP3     2,267,010  12-02-00 11:32p 11 bye bye love.mp3
+12LAB~28 MP3     2,068,478  12-02-00 11:32p 12 la bamba.mp3
+13BEB~30 MP3     2,515,278  12-02-00 11:32p 13 be bop a lula.mp3
+14VEN~32 MP3     2,307,970  12-02-00 11:33p 14 venus.mp3
+15EVE~34 MP3     2,083,944  12-02-00 11:33p 15 everyday.mp3
+16COM~36 MP3     2,604,303  12-02-00 11:33p 16 come go with me.mp3
+17OHC~38 MP3     2,222,706  12-02-00 11:33p 17 oh carol.mp3
+18SMO~40 MP3     2,573,374  12-02-00 11:33p 18 smoke gets in your eyes.mp3
+19LOV~42 MP3     1,829,825  12-02-00 11:33p 19 love potion no 9.mp3
+20RUM~44 MP3     2,323,017  12-02-00 11:34p 20 rumble.mp3
+BYEBY~46 TXT           568  12-02-00 11:28p bye bye love.txt
+CHANT~48 TXT           776  12-02-00 11:18p chantilly lace.txt
+SUMME~50 TXT           775  12-02-00 11:08p summertime blues.txt
+        23 file(s)     46,633,994 bytes
+
+Directory of E:\Z - Scans
+
+.              <DIR>        12-18-00  7:09a .
+..             <DIR>        12-18-00  7:09a ..
+DARKSI~5       <DIR>        12-18-00  7:09a DARK SIDE OF THE MOON
+DIREST~7       <DIR>        12-18-00  7:09a Dire Straits
+HEARTG~9       <DIR>        12-18-00  7:09a Heart Greatist Hits
+JOHNC~11       <DIR>        12-18-00  7:09a John Cougar
+RAMONES        <DIR>        12-18-00  7:09a Ramones
+U2-RA~15       <DIR>        12-18-00  7:09a U2 - Rattle and Hum
+         0 file(s)              0 bytes
+
+Directory of E:\Z - Scans\DARK SIDE OF THE MOON
+
+.              <DIR>        12-18-00  7:09a .
+..             <DIR>        12-18-00  7:09a ..
+PINKFL~6 JPG       169,481  01-19-00 12:47a Pink Floyd Jacket 01.jpg
+PINKFL~8 JPG       367,137  01-19-00 12:48a Pink Floyd Jacket 02.jpg
+PINKF~10 JPG       419,888  01-19-00 12:48a Pink Floyd Jacket 03.jpg
+PINKF~12 JPG       432,074  01-19-00 12:49a Pink Floyd Jacket 04.jpg
+PINKF~14 JPG       399,265  01-19-00 12:49a Pink Floyd Jacket 05.jpg
+PINKF~16 JPG       432,074  01-19-00 12:58a Pink Floyd Jacket 06.jpg
+PINKF~18 JPG       399,265  01-19-00 12:57a Pink Floyd Jacket 07.jpg
+PINKF~20 JPG       367,504  01-19-00 12:51a Pink Floyd Jacket 08.jpg
+PINKF~22 JPG       357,389  01-19-00 12:52a Pink Floyd Jacket 09.jpg
+PINKF~24 JPG       299,668  01-19-00 12:52a Pink Floyd Jacket 10.jpg
+PINKF~26 JPG       469,926  01-19-00 12:53a Pink Floyd Jacket 11.jpg
+PINKF~28 JPG       489,000  01-19-00 12:59a Pink Floyd Jacket 12.jpg
+        12 file(s)      4,602,671 bytes
+
+Directory of E:\Z - Scans\Dire Straits
+
+.              <DIR>        12-18-00  7:09a .
+..             <DIR>        12-18-00  7:09a ..
+DIREST~6 JPG       224,344  04-28-00  7:51a Dire Straits.jpg
+         1 file(s)        224,344 bytes
+
+Directory of E:\Z - Scans\Heart Greatist Hits
+
+.              <DIR>        12-18-00  7:09a .
+..             <DIR>        12-18-00  7:09a ..
+HEART1   JPG       445,410  04-28-00  7:07a Heart1.jpg
+HEART2   JPG       428,237  04-28-00  7:16a Heart2.jpg
+HEART3   JPG       443,304  04-28-00  7:25a Heart3.jpg
+HEART4   JPG       402,258  04-28-00  7:32a Heart4.jpg
+HEART5   JPG       114,826  04-28-00  7:35a Heart5.jpg
+         5 file(s)      1,834,035 bytes
+
+Directory of E:\Z - Scans\John Cougar
+
+.              <DIR>        12-18-00  7:09a .
+..             <DIR>        12-18-00  7:09a ..
+JCM1     JPG       635,512  03-24-00  4:59a JCM1.jpg
+JCM2     JPG       617,149  03-24-00  5:16a JCM2.jpg
+JCM3     JPG       640,965  03-24-00  5:25a JCM3.jpg
+JCM4     JPG       479,511  03-24-00  5:37a JCM4.jpg
+         4 file(s)      2,373,137 bytes
+
+Directory of E:\Z - Scans\Ramones
+
+.              <DIR>        12-18-00  7:09a .
+..             <DIR>        12-18-00  7:09a ..
+RAMONES1 JPG       282,254  04-18-00  9:11a Ramones1.jpg
+RAMONES2 JPG       228,637  04-18-00  9:15a Ramones2.jpg
+RAMONES3 JPG       422,730  04-18-00  9:19a Ramones3.jpg
+RAMONES4 JPG       273,015  04-18-00  9:26a Ramones4.jpg
+RAMONES5 JPG       366,267  04-18-00  9:32a Ramones5.jpg
+RAMONES6 JPG       419,365  04-18-00  9:38a Ramones6.jpg
+         6 file(s)      1,992,268 bytes
+
+Directory of E:\Z - Scans\U2 - Rattle and Hum
+
+.              <DIR>        12-18-00  7:09a .
+..             <DIR>        12-18-00  7:09a ..
+U2_1     JPG       365,157  04-03-00  5:09p U2_1.jpg
+U2_2     JPG       375,546  04-03-00  5:19p U2_2.jpg
+U2_3     JPG       459,638  04-03-00  5:27p U2_3.jpg
+U2_4     JPG       430,336  04-03-00  5:37p U2_4.jpg
+U2_5     JPG       444,805  04-03-00  5:47p U2_5.jpg
+U2_6     JPG       691,684  03-24-00 10:57p U2_6.jpg
+U2_7     JPG       492,021  03-24-00 11:03p U2_7.jpg
+         7 file(s)      3,259,187 bytes
+
+Total files listed:
+       227 file(s)    664,145,747 bytes
+        66 dir(s)               0 bytes free

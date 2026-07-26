@@ -1,0 +1,43 @@
+Tutorial #1 Homework
+
+Student__________________
+
+Section#_________________
+
+Hand in a Disk that includes the following (No Printouts):
+
+Tutorial						_____________/30
+· lcCopy.exe  (Executable will be graded!)
+· Project file
+· form file(s)
+
+Exercise #1 - Page 37					_____________/10
+· la1.exe  (Executable will be graded!)
+· Project file
+· form file(s)
+
+Exercise #2 - Page 37					_____________/10
+· la2.exe  (Executable will be graded!)
+· Project file
+· form file(s)
+
+Exercise #2 - Page 53					_____________/10
+· lb2done.exe  (Executable will be graded!)
+· Project file
+· form file(s)
+
+Exercise #1 - Page 83					_____________/10
+· lc1done.exe  (Executable will be graded!)
+· Project file
+· form file(s)
+
+
+Debugging #1						_____________/10
+· Create an executable (debug1.exe) with bug fixed
+Debugging #3						_____________/10
+· Create an executable (debug3.exe) with bug fixed
+Debugging #4						_____________/10
+· Create an executable (debug4.exe) with bug fixed
+
+
+						Total	_____________/100

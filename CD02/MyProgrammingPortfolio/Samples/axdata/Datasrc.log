@@ -1,0 +1,5 @@
+Line 148: Class MyDataControl.MyData of control MyData1 was not a loaded control class.
+Line 154: The property name _ExtentX in MyData1 is invalid.
+Line 155: The property name _ExtentY in MyData1 is invalid.
+Line 156: The property name RecordSource in MyData1 is invalid.
+Line 157: The property name ConnectionString in MyData1 is invalid.

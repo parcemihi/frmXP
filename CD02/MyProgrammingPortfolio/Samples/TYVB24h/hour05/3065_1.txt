@@ -1,0 +1,3 @@
+Private Sub cmdPress_Click ()
+cmdPress.Caption = "Brush your teeth daily!"
+End Sub

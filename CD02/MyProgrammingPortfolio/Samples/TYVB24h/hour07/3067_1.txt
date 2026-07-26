@@ -1,0 +1,14 @@
+Dim strCompName As String
+Dim intPress As Integer   ‘ MsgBox return value
+ ‘ Ask the user for a name
+ ‘ Use XYZ, Inc. for the default name
+strCompName = InputBox(“What is the company name?”, _
+“Company Request”, “XYZ, Inc.”)
+ ‘ Check the return value
+If (strCompName = ““) Then
+‘ The user clicked Cancel
+intPress = MsgBox(“Thanks anyway”)
+Else
+‘ The user entered a company name
+intPress = MsgBox(“You entered “ & strCompName)
+End If

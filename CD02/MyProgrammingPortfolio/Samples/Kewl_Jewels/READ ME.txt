@@ -1,0 +1,21 @@
+Kewl Jewels 1.0 - by Simon Price - 8 July 2000
+
+The Aim Of The Game
+
+If you rushed of to play the game without reading this and now you've come grovelling back, unlucky. If however you are wise and realise that you should read the text file first, well done. Because this game requires brains, not fast thumbs and joystick bashing so you need to know the rules to have any fun at all. But then boy will you have fun...
+
+1/ 'Columns' of jewels fall from the top of the screen.
+2/ Each column consists of 3 jewels and you can rotate their order using the up arrow key.
+3/ You can move the columns of jewels left/right by moving the left/right arrow key.
+4/ You can make the jewels fall more quickly with the down arrow key.
+5/ The idea of the game is to stay alive for as long as you can, and if you do it with skill, you get a lot of points.
+6/ You score points by making the jewels disappear. You do this by getting 3 or more in a row (horizontally, vertically or diagonally). You are greatly rewarded for bigger amounts of jewels vanishing.
+7/ You can grab tons of points by setting up a 'chain reaction' or events. For example, you could make some jewels disappear which, when they disappear, cause more jewels to fall into alignment and disappear. These jewels could do the same. Sometimes you could make half the screen disappear in this way!
+8/ The game is over when a jewel piles up over the top of the screen.
+9/ 1 in 50 jewels are bright white ones. These are special, if placed corectly, they can make huge amounts of jewels disappear. For example, if you place it on a red jewel, every red jewel in the game will disappear!
+10/ When this game has driven you mad and you realise that you've been playing it for an hour, please come and vote for it on www.planet-source-code.com - how many other VB games have you downloaded that were as adictive as this?
+
+Boring Copywrite Stuff
+
+All code and stuff in this zip file is mine, Simon Price, email Si@VBgames.co.uk , do not rip me off and claim it is yours, make your own stuff and you'll be alot more satisfied. Bore, yawn, lecture, you know what I'm going to say, this is freeware, distribute it only as it's original zip file (WITH this readme.txt file in it!). etc.
+

@@ -1,0 +1,3 @@
+Check Number,Bank Check Insert,Description,Month,Day,Year,Amount  ,OptionPrivilege, OptionPreferences, OptionSettings
+1000        ,0                ,"Rent"     ,12   ,1  ,2001,500.00  ,0              ,0                 ,"[OPTION SETTINGS]"
+INT	    ,INT              ,STRING     ,INT  ,INT,INT ,CURRENCY,INT            ,INT               ,STRING

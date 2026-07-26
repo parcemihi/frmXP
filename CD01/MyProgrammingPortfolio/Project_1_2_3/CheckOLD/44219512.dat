@@ -1,0 +1,10 @@
+TYPE	,CLEARED,CHK NUM,DEP FAM,MONTH	,DAY	,YEAR	,DESCRIPTION		AMOUNT
+1	,0	,0	,1	,12	,1	,2001	,"OPEN ACCOUNT        "	,100
+1	,0	,0	,2	,	,	,	,"Sylvia              "	,275
+1	,0	,0	,2	,	,	,	,"Christmas Mannion   "	,200
+1	,0	,0	,2	,	,	,	,"Mannion             "	,75
+0	,0	,1000	,0	,	,	,	,"Rent                "	,
+0	,0	,1001	,0	,	,	,	,"Cash - Parking      "	,
+0	,0	,1002	,0	,	,	,	,"Brady True Value    "	,
+0	,0	,1003	,0	,	,	,	,"Walgreens           "	,4.43
+0	,0	,1004	,0	,	,	,	,"Rent                "	,

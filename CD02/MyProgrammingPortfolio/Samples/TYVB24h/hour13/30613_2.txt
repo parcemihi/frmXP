@@ -1,0 +1,30 @@
+Public Function Postage() As Currency
+‘ Calculate postage based on the
+‘ weight of a letter or package
+Dim curPostHold As Currency
+Dim intWeight As Integer
+Dim intPress As Integer  ‘ MsgBox() return
+
+‘ Grab the weight from the text box
+‘ and convert to number for comparison
+intWeight = Val(txtWeight.Text)
+
+Select Case intWeight
+Case Is <= 8:  curPostHold = 0.32
+
+Case Is <= 12: curPostHold = 0.47
+
+Case Is <= 16: curPostHold = 0.62
+
+Case Is <= 20: curPostHold = 0.77
+
+Case Is <= 24: curPostHold = 0.92
+
+Case Is > 24:
+intPress = MsgBox(“Weight is too heavy”, _
+vbExclamation, “Error”)
+curPostHold = 0#
+End Select
+
+Postage = curPostHold   ‘ Return the value
+End Function

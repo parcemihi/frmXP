@@ -1,0 +1,106 @@
+0,0,"Chardonnay (Sebastiani Sanoma Cask)",5.00
+1,0,"Chardonnay (Marcellina)            ",8.50
+2,0,"Pinot Grigio (Mezza Carona)        ",5.50
+3,0,"Pinot Grigio (San Angelo)          ",6.50
+4,0,"Meritage (St. Supery)              ",7.50
+5,0,"Mamertino (Italy)                  ",5.00
+6,0,"Gavi Princepessa                   ",6.50
+7,0,"Reisling (Columbia Reserve)        ",4.50
+8,0,"Viognier (Kunde)                   ",8.50
+9,0,"Sauvigon Blanc (Riverside)         ",7.00
+10,1,"Cabernet Franc (Vigil) Napa        ",9.50
+11,1,"Cabernet Sauvignon (Haywood)       ",5.00
+12,1,"Cabernet Sauvignon (Edgewood)      ",7.50
+13,1,"Chianti (Banfi)                    ",5.50
+14,1,"Chianti Riserva Classico (Banfi)   ",7.50
+15,1,"Pinot Noir (Indigo Hills)          ",5.00
+16,1,"Pinot Noir (Monticello)            ",8.95
+17,1,"Zinfandel (Zabacco Rancho)         ",6.50
+18,1,"Zinfandel (Boeger Estate)          ",8.00
+19,1,"Petit Syrah (Foppiano)             ",10.95
+20,1,"Merlot (Talus)                     ",5.00
+21,1,"Merlot (Lindemans Reserve)         ",7.50
+22,1,"Syrah (Gabrielli)                  ",7.00
+23,2,"White Zinfandel (Woodbridge)       ",4.00
+24,2,"White Zinfandel (Berringer)        ",4.75
+25,3,"Porto, (Woodbridge)                ",6.50
+26,3,"Muscat (Canelli)                   ",4.50
+27,4,"Louis Roederer Brut Premier        ",85.00
+28,4,"Mezza Carona Rotari Champagne      ",25.00
+29,4,"Asti Spumante                      ",30.00
+30,4,"Taittinger La Frances (half bottle)",26.00
+31,4,"Taittinger  750 La Frances         ",85.00
+32,4,"Taittinger 750 Milleseme           ",95.00
+33,4,"Taittinger 750 Prestige Rose       ",95.00
+34,5,"Dolce 1993 Late Harvest Napa       ",90.00
+35,5,"Porto Woodbridge                   ",40.00
+36,5,"Muscat Canelli                     ",18.00
+37,6,"Ariel Chardonnay                   ",16.95
+38,6,"Ariel Cabernet Sauvignon           ",16.95
+39,7,"Viognier (Kunde) Sonoma Valley     ",27.50
+40,7,"Meritage (St. Supery)              ",29.50
+41,7,"Chardonnay (Fontinelle)            ",27.00
+42,7,"Chardonnay (Lindemans Bin 65)      ",17.95
+43,7,"Chardonnay (Sebastiani)            ",21.00
+44,7,"Chardonnay (Indigo Hills)          ",18.95
+45,7,"Chardonnay (Marcellina)            ",35.00
+46,7,"Chardonnay Pinot Grigio (Le Rime)  ",18.95
+47,7,"Pinot Grigio (Mezza Carona)        ",18.95
+48,7,"Pinot Grigio (Sartori)             ",16.95
+49,7,"Pinot Gris (Bridge View)           ",20.00
+50,7,"Vouvray (Marc Brendif)             ",25.00
+51,7,"Pouilly Fuisse (Louis Latour)      ",35.00
+52,7,"Sauvignon Blanc (Preston)          ",25.00
+53,7,"Fume Blanc (Mondavi)               ",20.00
+54,7,"Marsanne (Preston)                 ",25.00
+55,7,"Soave  (Sartori)                   ",15.95
+56,7,"Orvieto (Riccasoli)                ",18.95
+57,7,"Villa Bianco (Antinori)            ",21.00
+58,7,"Sauvignon Blanc (Blockheadia)      ",45.00
+59,7,"Reisiling (Columbia Reserve)       ",16.95
+60,7,"Piesporter Reserve                 ",15.95
+61,7,"Mamertino (Verucchio)              ",15.95
+62,7,"Princepessa Gavia (Gavi)           ",25.00
+63,7,"Sauvignon Blanc (Riverside)        ",22.00
+64,7,"Pinot Blanc (Ken Wright Cellars)   ",25.00
+65,8,"Cabernet Franc (Vigil)             ",35.00
+66,8,"Cabernet Sauvignon (Far Niente)    ",125.00
+67,8,"Cabernet Sauvignon (Marcellina)    ",40.00
+68,8,"Cabernet Sauvignon (Edgewood)      ",30.00
+69,8,"Cabernet Sauvignon (St. Supery)    ",30.00
+70,8,"Cabernet Sauvignon (Monticello)    ",40.00
+71,8,"Cabernet Sauvignon (Turning Leaf)  ",23.00
+72,8,"Cabernet Sauvignon (Mezza Carona)  ",20.00
+73,8,"Cabernet/Sangiovese (Col Di Sasso) ",18.95
+74,8,"Sangiovese (Santa Cristina)        ",21.00
+75,8,"Chianti (Banfi) Whicker            ",16.95
+76,8,"Chianti Classico Riserva (Banfi)   ",23.00
+77,8,"Chianti Classico Riserva (Antinori)",28.00
+78,8,"Chianti Classico Riserva (Peppoli) ",35.00
+79,8,"Barolo (Rocche Della Mora)         ",50.00
+80,8,"Barolo (Vigna Francesca)           ",55.00
+81,8,"Brunnelo (Banfi)                   ",60.00
+82,8,"Barberra (d’Alba)                  ",55.00
+83,8,"Notarpanaro (del Salento)          ",28.00
+84,8,"Costera (Di Sardegna)              ",25.95
+85,8,"Shiraz, (Lindemans Bin 50)         ",16.95
+86,8,"Petit Syrah (EOS)                  ",26.95
+87,8,"Petit Syrah (Foppiana)             ",35.00
+88,8,"Petit Syrah (Stags Leap)           ",50.00
+89,8,"Pinot Noir (Turning Leaf Reserve)  ",21.00
+90,8,"Pinot Noir (Monticello)            ",40.00
+91,8,"Pinot Noir (Indigo Hills)          ",18.95
+92,8,"Pinot Noir (Laetitia Estate)       ",25.00
+93,8,"Zifandel (Zabacco Rancho)          ",25.00
+94,8,"Zifandel (Boeger Estate)           ",30.00
+95,8,"Faux (Preston)                     ",21.00
+96,8,"Merlot (Lindemans Bin 40)          ",18.95
+97,8,"Merlot (Lindemans Reserve)         ",27.00
+98,8,"Merlot (Talus)                     ",18.95
+99,8,"Merlot (Mezza Carona)              ",18.95
+100,8,"Valpolicella (Sartori)             ",15.95
+101,8,"Valpolicella (Rizzardi)            ",16.95
+102,8,"Bardolino (Sartori)                ",15.95
+103,8,"Bardolino (Rizzardi)               ",16.95
+104,8,"Syrah (Gabrielli)                  ",25.00
+105,9,"We Are Offering Three of Our Finest Whites. Tasting Order: Marcellina, Chardonnay, St. Supery Meritage ",9.95

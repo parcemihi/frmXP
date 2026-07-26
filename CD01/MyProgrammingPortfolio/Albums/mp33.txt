@@ -1,0 +1,294 @@
+
+ Volume in drive E is 010729_2355
+ Volume Serial Number is 2C66-99CA
+
+Directory of E:\
+
+ALHIRT~5       <DIR>        07-29-01 11:56p Al Hirt
+BRUCEC~7       <DIR>        07-29-01 11:56p Bruce Cockburn
+CAROLE~9       <DIR>        07-29-01 11:56p Carole King
+CDKUL~11       <DIR>        07-29-01 11:56p CD kulu - a day
+JIMMY~13       <DIR>        07-29-01 11:56p Jimmy Smith
+JOHNC~15       <DIR>        07-29-01 11:56p John Cougar
+JULIA~17       <DIR>        07-29-01 11:56p Julia's CD
+PETEF~19       <DIR>        07-29-01 11:56p Pete fountain
+WESMO~21       <DIR>        07-29-01 11:56p Wes Montgomery
+         0 file(s)              0 bytes
+
+Directory of E:\Al Hirt
+
+.              <DIR>        07-29-01 11:56p .
+..             <DIR>        07-29-01 11:56p ..
+SWINGI~5       <DIR>        07-29-01 11:56p Swingin' Dixie
+         0 file(s)              0 bytes
+
+Directory of E:\Al Hirt\Swingin' Dixie
+
+.              <DIR>        07-29-01 11:56p .
+..             <DIR>        07-29-01 11:56p ..
+01_CAR~6 MP3     6,376,928  07-20-01  1:16a 01_Caravan.mp3
+02_TIG~8 MP3     3,339,628  07-20-01 12:55a 02_Tiger Rag.mp3
+03_AN~10 MP3     2,456,758  07-20-01 12:56a 03_And The Angels Sing.mp3
+04_FI~12 MP3     4,608,111  07-20-01 12:59a 04_Fidgety Feet.mp3
+05_TA~14 MP3     3,633,292  07-20-01  1:01a 05_Tailgate Ramble.mp3
+06_HI~16 MP3     4,961,110  07-20-01  1:03a 06_Hindustan.mp3
+07_FL~18 MP3     3,317,478  07-20-01  1:05a 07_Floatin' Down To Cottontown.mp3
+08_MI~20 MP3     3,109,966  07-20-01  1:06a 08_Missippi Mud.mp3
+09_IW~22 MP3     3,121,234  07-20-01  1:08a 09_I Want A Big Butter And Egg Man.mp3
+10_ST~24 MP3     4,105,844  07-20-01  1:10a 10_St Louis Blues.mp3
+11_NE~26 MP3     3,907,549  07-20-01  1:12a 11_New Orleans.mp3
+12_SA~28 MP3     6,334,647  07-20-01 12:53a 12_Saints.mp3
+        12 file(s)     49,272,545 bytes
+
+Directory of E:\Bruce Cockburn
+
+.              <DIR>        07-29-01 11:56p .
+..             <DIR>        07-29-01 11:56p ..
+NO5_BC   TXT           708  04-05-01  4:20a No5_BC.txt
+THECHA~5       <DIR>        07-29-01 11:56p The Charity of Night
+         1 file(s)            708 bytes
+
+Directory of E:\Bruce Cockburn\The Charity of Night
+
+.              <DIR>        07-29-01 11:56p .
+..             <DIR>        07-29-01 11:56p ..
+01_NIG~6 MP3     6,008,999  04-05-01  4:33a 01_Night train.mp3
+02_GET~8 MP3     4,854,177  04-05-01  4:37a 02_Get up Jonah.mp3
+03_PA~10 MP3     4,490,135  04-05-01  4:41a 03_Pacing the cage.mp3
+04_MI~12 MP3     5,944,215  04-05-01  4:46a 04_Mistress of the storm.mp3
+05_TH~14 MP3     3,748,675  04-05-01  4:52a 05_The whole night sky.mp3
+06_TH~16 MP3     4,621,792  04-05-01  4:56a 06_The coming rains.mp3
+07_BI~18 MP3     9,289,560  04-05-01  5:04a 07_Birmingham shadows.mp3
+08_TH~20 MP3     5,989,773  04-05-01  5:09a 08_The mines of Mozambique.mp3
+09_LI~22 MP3     6,502,608  04-05-01  5:15a 09_Live on my mind.mp3
+10_TH~24 MP3     7,756,904  04-05-01  5:22a 10_The charity of night.mp3
+11_ST~26 MP3     5,593,129  04-05-01  5:27a 11_Strange waters.mp3
+        11 file(s)     64,799,967 bytes
+
+Directory of E:\Carole King
+
+.              <DIR>        07-29-01 11:56p .
+..             <DIR>        07-29-01 11:56p ..
+TAPESTRY       <DIR>        07-29-01 11:56p Tapestry
+         0 file(s)              0 bytes
+
+Directory of E:\Carole King\Tapestry
+
+.              <DIR>        07-29-01 11:56p .
+..             <DIR>        07-29-01 11:56p ..
+01_IFE~6 MP3     2,877,753  07-19-01  5:32p 01_I Feel The Earth Move.mp3
+02_SOF~8 MP3     3,695,100  07-19-01  5:34p 02_So Far Away.mp3
+03_IT~10 MP3     3,686,729  07-19-01  5:36p 03_It's Too Late.mp3
+04_HO~12 MP3     2,349,266  07-19-01  5:37p 04_Home Again.mp3
+05_BE~14 MP3     2,939,002  07-19-01  5:39p 05_Beautiful.mp3
+06_WA~16 MP3     4,476,263  07-19-01  5:41p 06_Way Over Yonder.mp3
+07_YO~18 MP3     4,868,740  07-19-01  5:44p 07_You've Got A Friend.mp3
+08_WH~20 MP3     3,148,827  07-19-01  5:46p 08_Where You Lead.mp3
+09_WI~22 MP3     3,958,416  07-19-01  5:48p 09_Will You Love Me Tomorrow.mp3
+10_SM~24 MP3     3,483,197  07-19-01  5:49p 10_Smackwater Jack.mp3
+11_TA~26 MP3     3,483,197  07-19-01  5:51p 11_Tapestry.mp3
+12_(Y~28 MP3     3,704,301  07-19-01  5:53p 12_(You Make Me Feel Like) A Natural Woman.mp3
+        12 file(s)     42,670,791 bytes
+
+Directory of E:\CD kulu - a day
+
+.              <DIR>        07-29-01 11:56p .
+..             <DIR>        07-29-01 11:56p ..
+BACK-K~6 JPG       835,969  05-23-01  6:12p Back - kulu se mama.jpg
+FRONT-~8 JPG     1,492,315  05-23-01  6:13p Front - kulu se mama.jpg
+KULUS~10 MP3    17,513,662  05-25-01  7:31a kulusemama1.mp3
+KULUS~12 PDD    14,126,039  05-23-01  6:46p kulu se mama.pdd
+KULUS~14 MP3     9,426,629  05-25-01  7:36a kulusemama2.mp3
+KULUS~16 MP3     5,401,197  05-25-01  7:39a kulusemama3.mp3
+         6 file(s)     48,795,811 bytes
+
+Directory of E:\Jimmy Smith
+
+.              <DIR>        07-29-01 11:56p .
+..             <DIR>        07-29-01 11:56p ..
+BASHIN         <DIR>        07-29-01 11:56p bashin
+SWINGS~7       <DIR>        07-29-01 11:56p Swings Along With Stranger In Paradise
+         0 file(s)              0 bytes
+
+Directory of E:\Jimmy Smith\bashin
+
+.              <DIR>        07-29-01 11:56p .
+..             <DIR>        07-29-01 11:56p ..
+01_WAL~6 MP3     5,723,070  07-20-01 12:55p 01_Walk On The Wild Side.mp3
+02_OL'~8 MP3     3,792,485  07-20-01 12:57p 02_Ol' Man River.mp3
+03_IN~10 MP3     4,193,443  07-20-01 12:59p 03_In A Mellotone.mp3
+04_ST~12 MP3     3,996,867  07-20-01  1:01p 04_Step Right Up.mp3
+05_BE~14 MP3     7,072,662  07-20-01  1:04p 05_Begger For The Blues.mp3
+06_BA~16 MP3     4,913,902  07-20-01  1:07p 06_Bashin.mp3
+07__I~18 MP3     5,870,158  07-20-01  1:09p 07__I'm An Old Cowhand.mp3
+         7 file(s)     35,562,587 bytes
+
+Directory of E:\Jimmy Smith\Swings Along With Stranger In Paradise
+
+.              <DIR>        07-29-01 11:56p .
+..             <DIR>        07-29-01 11:56p ..
+01_STR~6 MP3     2,989,777  07-20-01  3:31a 01_Stranger In Paradise.mp3
+02_JIM~8 MP3     2,773,848  07-20-01  3:32a 02_Jimmy's Jam.mp3
+03_IT~10 MP3     3,025,508  07-20-01  3:34a 03_It's A Sin To Tell A Lie.mp3
+04_IC~12 MP3     2,370,927  07-20-01  3:35a 04_I Can't give You Anything But Love.mp3
+05_IH~14 MP3     2,609,986  07-20-01  3:36a 05_I Had The Craziest Dream.mp3
+06_TE~16 MP3     2,519,406  07-20-01  3:38a 06_Tell Me.mp3
+07_IH~18 MP3     2,347,964  07-20-01  3:39a 07_I Hear A Rhapsody.mp3
+08_JE~20 MP3     3,487,848  07-20-01  3:41a 08_Jeepers Creepers.mp3
+09_JI~22 MP3     2,567,865  07-20-01  3:42a 09_Jimmy's Swing.mp3
+10_MI~24 MP3     3,026,825  07-20-01  3:43a 10_Misery.mp3
+        10 file(s)     27,719,954 bytes
+
+Directory of E:\John Cougar
+
+.              <DIR>        07-29-01 11:56p .
+..             <DIR>        07-29-01 11:56p ..
+MRHAPP~5       <DIR>        07-29-01 11:56p Mr Happy Go Lucky
+         0 file(s)              0 bytes
+
+Directory of E:\John Cougar\Mr Happy Go Lucky
+
+.              <DIR>        07-29-01 11:56p .
+..             <DIR>        07-29-01 11:56p ..
+01_OVE~6 MP3     1,856,075  02-18-01  9:24a 01_Overture.mp3
+02_JERRY MP3     4,222,563  02-18-01  9:26a 02_Jerry.mp3
+03_KE~10 MP3     4,710,734  02-18-01  9:29a 03_Key West Intermezzo(I saw you first).mp3
+04_JU~12 MP3     3,647,037  02-18-01  9:31a 04_Just another day.mp3
+05_TH~14 MP3     5,269,541  02-18-01  9:33a 05_This may not be the end of the world.mp3
+06_EM~16 MP3     3,205,250  02-18-01  9:35a 06_Emotional love.mp3
+07_MR~18 MP3     5,349,376  02-18-01  9:38a 07_Mr Bellows.mp3
+08_TH~20 MP3     3,060,210  02-18-01  9:40a 08_The full catastrophe.mp3
+09_CI~22 MP3     5,993,032  02-18-01  9:43a 09_Circling around the moon.mp3
+10_LA~24 MP3     3,755,701  02-18-01  9:45a 10_Large world turning.mp3
+11_JA~26 MP3     1,560,157  02-18-01  9:46a 11_Jackamo road.mp3
+12_LI~28 MP3     3,128,334  02-18-01  9:47a 12_Life is hard.mp3
+MRHAP~30 JPG       188,142  02-23-01  1:53p Mr Happy Go Lucky01.jpg
+MRHAP~32 JPG       184,895  02-23-01  1:54p Mr Happy Go Lucky02.jpg
+MRHAP~34 JPG       277,137  02-23-01  1:56p Mr Happy Go Lucky03.jpg
+MRHAP~36 JPG       269,334  02-23-01  2:01p Mr Happy Go Lucky04.jpg
+MRHAP~38 JPG       240,730  02-23-01  2:04p Mr Happy Go Lucky05.jpg
+MRHAP~40 JPG       259,684  02-23-01  2:06p Mr Happy Go Lucky06.jpg
+MRHAP~42 JPG       273,624  02-23-01  2:10p Mr Happy Go Lucky07.jpg
+        19 file(s)     47,451,556 bytes
+
+Directory of E:\Julia's CD
+
+.              <DIR>        07-29-01 11:56p .
+..             <DIR>        07-29-01 11:56p ..
+DON'TL~6 WAV    31,062,492  01-09-01 11:13a Don't let Julia fool ya.wav
+HAWAII~8 WAV    33,598,252  01-09-01 11:14a Hawaiian tale.wav
+JOE'S~10 WAV    32,846,740  01-09-01 11:11a Joe's joint.wav
+TIMEC~12 WAV    26,317,612  01-09-01 11:15a Time Changes Everthing.wav
+         4 file(s)    123,825,096 bytes
+
+Directory of E:\Pete fountain
+
+.              <DIR>        07-29-01 11:56p .
+..             <DIR>        07-29-01 11:56p ..
+NEWORL~5       <DIR>        07-29-01 11:56p New Orleans, Tennessee
+PLENTY~7       <DIR>        07-29-01 11:56p Plenty of Pete
+         0 file(s)              0 bytes
+
+Directory of E:\Pete fountain\New Orleans, Tennessee
+
+.              <DIR>        07-29-01 11:56p .
+..             <DIR>        07-29-01 11:56p ..
+01_NIG~6 MP3     2,175,963  07-15-01  3:33a 01_Night Train To Memphis.mp3
+02_HEL~8 MP3     2,473,406  07-15-01  3:21a 02_Help Me Make It Through The Night.mp3
+03_SA~10 MP3     2,693,491  07-15-01  3:23a 03_San Antonio Rose.mp3
+04_RO~12 MP3     2,144,051  07-15-01  3:24a 04_Rose Garden.mp3
+05_CRAZY MP3     2,447,099  07-15-01  3:25a 05_Crazy.mp3
+06_TH~16 MP3     1,899,127  07-15-01  3:26a 06_The Drum.mp3
+07_JU~18 MP3     2,383,766  07-15-01  3:27a 07_Just Because.mp3
+08_NE~20 MP3     2,665,287  07-15-01  3:28a 08_New Orleans, Tennessee.mp3
+09_IC~22 MP3     3,065,166  07-15-01  3:30a 09_I Can't Stop Loving You.mp3
+10_SU~24 MP3     3,330,610  07-15-01  3:32a 10_Sunday In The Country.mp3
+11_WA~26 MP3     2,612,998  07-15-01  3:20a 11_Walking The Floor Over You.mp3
+        11 file(s)     27,890,964 bytes
+
+Directory of E:\Pete fountain\Plenty of Pete
+
+.              <DIR>        07-29-01 11:56p .
+..             <DIR>        07-29-01 11:56p ..
+01_AFT~6 MP3     3,863,111  07-15-01  3:36a 01_After You've Gone.mp3
+02_MED~8 MP3     6,959,787  07-15-01  3:39a 02_Medley.mp3
+03_DO~10 MP3     3,914,563  07-15-01  3:41a 03_Don't Be That Way.mp3
+04_ON~12 MP3     2,660,779  07-15-01  3:42a 04_On The Sunny Side Of The Street.mp3
+05_JU~14 MP3     3,732,308  07-15-01  3:44a 05_Just One Of Those Things.mp3
+06_ST~16 MP3     4,841,157  07-15-01  3:46a 06_Stranger On The Shore.mp3
+07_JA~18 MP3     4,834,728  07-15-01  3:49a 07_Jazz Me Blues.mp3
+08_BL~20 MP3     2,898,247  07-15-01  3:50a 08_Blue Skies.mp3
+         8 file(s)     33,704,680 bytes
+
+Directory of E:\Wes Montgomery
+
+.              <DIR>        07-29-01 11:56p .
+..             <DIR>        07-29-01 11:56p ..
+ADAYIN~5       <DIR>        07-29-01 11:56p A Day In The Life
+CALIFO~7       <DIR>        07-29-01 11:56p California Dreaming
+THEBES~9       <DIR>        07-29-01 11:56p The Best of Wes Montgomery
+WESAN~11       <DIR>        07-29-01 11:56p Wes and Jimmy
+         0 file(s)              0 bytes
+
+Directory of E:\Wes Montgomery\A Day In The Life
+
+.              <DIR>        07-29-01 11:56p .
+..             <DIR>        07-29-01 11:56p ..
+01_ADA~6 MP3     5,593,887  07-14-01  3:22p 01_A Day In The Life.mp3
+02_WAT~8 MP3     2,600,050  07-14-01  3:24p 02_Watch What Happens.mp3
+03_WH~10 MP3     2,764,749  07-14-01  3:25p 03_When A Man Loves A Woman.mp3
+04_CA~12 MP3     2,378,943  07-14-01  3:26p 04_California Nights.mp3
+05_ANGEL MP3     2,664,948  07-14-01  3:27p 05_Angel.mp3
+06_EL~16 MP3     3,082,188  07-14-01  3:29p 06_Eleanor Rigby.mp3
+07_WI~18 MP3     4,279,850  07-14-01  3:32p 07_Willow Weep For Me.mp3
+08_WINDY MP3     2,250,693  07-14-01  3:33p 08_Windy.mp3
+09_TR~22 MP3     4,222,632  07-14-01  3:36p 09_Trust In Me.mp3
+10_TH~24 MP3     3,268,416  07-14-01  3:37p 10_The Joker.mp3
+        10 file(s)     33,106,356 bytes
+
+Directory of E:\Wes Montgomery\California Dreaming
+
+.              <DIR>        07-29-01 11:56p .
+..             <DIR>        07-29-01 11:56p ..
+01_CAL~6 MP3     3,035,979  07-14-01 12:19a 01_California Dreaming.mp3
+02_SUN~8 MP3     5,717,901  07-14-01 12:22a 02_Sun Down.mp3
+03_OH~10 MP3     3,487,649  07-14-01 12:23a 03_Oh You Crazy Moon.mp3
+04_MO~12 MP3     2,719,756  07-14-01 12:25a 04_More, More Amor.mp3
+05_WI~14 MP3     3,019,681  07-14-01 12:26a 05_Without You.mp3
+06_WI~16 MP3     3,046,456  07-14-01 12:28a 06_Winds Of Barcelona.mp3
+07_SUNNY MP3     3,873,156  07-14-01 12:30a 07_Sunny.mp3
+08_GR~20 MP3     2,810,733  07-14-01 12:31a 08_Green Peppers.mp3
+09_MR~22 MP3     3,431,841  07-14-01 12:33a 09_Mr Walker.mp3
+10_SO~24 MP3     3,194,389  07-14-01 12:34a 10_South Of The Border.mp3
+        10 file(s)     34,337,541 bytes
+
+Directory of E:\Wes Montgomery\The Best of Wes Montgomery
+
+.              <DIR>        07-29-01 11:56p .
+..             <DIR>        07-29-01 11:56p ..
+01_TEQ~6 MP3     3,224,874  07-14-01  1:43a 01_Tequila.mp3
+02_MOV~8 MP3     3,067,804  07-14-01  1:44a 02_Movin' Wes part 1.mp3
+03_EN~10 MP3     3,526,940  07-14-01  1:46a 03_End of a Love Affair.mp3
+04_NA~12 MP3     2,897,516  07-14-01  1:47a 04_Naptown Blues.mp3
+05_CO~14 MP3     3,187,337  07-14-01  1:49a 05_Con Alma.mp3
+06_GO~16 MP3     2,116,529  07-14-01  1:50a 06_Goin' Out Of My Head.mp3
+07_HO~18 MP3     3,573,928  07-14-01  1:52a 07_How Insensitive (insensatez).mp3
+08_TH~20 MP3     2,195,944  07-14-01  1:53a 08_The Shadow Of Your Smile.mp3
+09_CA~22 MP3     2,493,473  07-14-01  1:54a 09_Caravan.mp3
+10_BU~24 MP3     4,584,563  07-14-01  1:56a 10_Bumpin' On Sunset.mp3
+        10 file(s)     30,868,908 bytes
+
+Directory of E:\Wes Montgomery\Wes and Jimmy
+
+.              <DIR>        07-29-01 11:56p .
+..             <DIR>        07-29-01 11:56p ..
+01_DOW~6 MP3     9,425,325  07-14-01  4:35p 01_Down By The Riverside.mp3
+02_NIG~8 MP3     6,306,925  07-14-01  4:38p 02_Night Train.mp3
+03_JA~10 MP3     7,714,670  07-14-01  4:42p 03_James And Wes.mp3
+04_13~12 MP3     5,013,807  07-14-01  4:45p 04_13 (Death March).mp3
+05_BA~14 MP3     5,576,750  07-14-01  4:47p 05_Baby, It's Cold Outside.mp3
+         5 file(s)     34,037,477 bytes
+
+Total files listed:
+       136 file(s)    634,044,941 bytes
+        63 dir(s)               0 bytes free

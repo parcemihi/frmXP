@@ -1,0 +1,11 @@
+Public Function PrReady() As Boolean
+' Make sure the user is ready to print
+Dim intIsReady As Integer
+intIsReady = MsgBox("Make sure the printer is ready", _
+vbCritical + vbOKCancel, "Printer Check")
+If (intIsReady = vbCancel) Then
+  PrReady = False ' A Cancel press returns a False value
+Else
+  PrReady = True  ' User pressed OK so return True
+End If
+End Function

@@ -1,0 +1,107 @@
+{\rtf1\ansi \deff4\deflang1033{\fonttbl{\f1\froman\fcharset2\fprq2 Symbol;}{\f4\froman\fcharset0\fprq2 Times New Roman;}{\f5\fswiss\fcharset0\fprq2 Arial;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;
+\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;
+\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}{\stylesheet{\widctlpar \f4\fs20\lang1053 \snext0 Normal;}{\*\cs10 \additive Default Paragraph Font;}}{\info{\title MatFa's Boids 0}{\author Mattias Fagerlund}{\operator mafa}
+{\creatim\yr1997\mo2\dy21\hr14\min56}{\revtim\yr1997\mo8\dy8\hr9\min34}{\version2}{\edmins2}{\nofpages3}{\nofwords933}{\nofchars5320}{\*\company BODAB AB}{\vern57439}}\margl1417\margr1417\margt1417\margb1417 \widowctrl\ftnbj\aenddoc\hyphhotz425\hyphcaps0 
+\fet0\sectd \linex0\headery709\footery709\colsx709 {\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl4
+\pnlcltr\pnstart1\pnindent720\pnhang{\pntxta )}}{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang{\pntxtb (}
+{\pntxta )}}{\*\pnseclvl8\pnlcltr\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}\pard\plain \li284\nowidctlpar \f4\fs20\lang1053 {\b\f5\fs32\cf11\lang1033 
+\par }\pard \qc\li284\nowidctlpar {\b\f5\fs32\lang1033 MatFa's Boids 0.3,
+\par by matfa@acacia.se
+\par }\pard \li284\nowidctlpar {\lang1033 I wrote MatFa's Boids 0.3
+ during February 1997, 'cause it seemed the thing to do. It took all of two days to get running, but I knew the rules I needed in advance. My lacking memory of trigonometry caused a lot of those days to be spent hunting dumb bugs. A couple of more days we
+re spent on making it look nicer, and writing this document, so I could release it into the public domain.
+\par 
+\par This program was written entirely in Delphi 2.0, a wonderful programming environment from Borland.
+\par 
+\par If you want to look for newer versions, http://www.geocities.com/SiliconValley/Bay/5922/ is the
+\par place to go!
+\par 
+\par 
+\par }{\b\f5\fs28\lang1033 The Boids of Craig Reynolds
+\par }{\lang1033 
+Who better too explain the boids than their inventor, Craig Reynolds? I 'borrowed' this passage from his webpage, at http://hmt.com/cwr/boids.html, the premiere source on boids on the 'net. There are other implementations of the boids rules there. 
+\par 
+\par }\pard \li709\nowidctlpar {\lang1033 "In 1986
+ I made a computer model of coordinated animal motion such as bird flocks and fish schools. It was based on three dimensional computational geometry of the sort normally used in computer animation or computer aided design. I called the software boids. 
+
+\par 
+\par 
+\par Each boid has direct access to the whole scene's geometric description, but reacts only to flockmates within a certain small radius of itself. The basic flocking model consists of three simple steering behaviors: 
+\par 
+\par 1.Separation: steer to avoid crowding local flockmates. 
+\par 2.Alignment: steer towards the average heading of local flockmates. 
+\par 3.Cohesion: steer to move toward the average position of local flockmates. 
+\par 
+\par In addition, the more elaborate behavioral model included predictive obstacle avoidance and goal seeking. Obstacle avoidance allowed the boids to fly through simulated environments while dodging static objects. For applications in computer animation, a lo
+w priority goal seeking behavior caused the flock to follow a scripted path."
+\par }\pard \li454\nowidctlpar {\lang1033 
+\par 
+\par }\pard \li284\nowidctlpar {\b\f5\fs28\lang1033 The Boids of Mattias Fagerlund
+\par }{\lang1033 Well, my boids are exactly like Craig's, though I have written all the code myself. There are some visual cues as to what the Boids are doing. 
+\par 
+\par {\pntext\pard\plain\f1\fs20\lang1033 \'b7\tab}}\pard \fi-283\li567\nowidctlpar{\*\pn \pnlvlblt\pnf1\pnindent283 {\pntxtb \'b7}}{\lang1033 Green boids are turning because of the obstacles
+\par {\pntext\pard\plain\f1\fs20\lang1033 \'b7\tab}Red boids are breaking
+\par {\pntext\pard\plain\f1\fs20\lang1033 \'b7\tab}Blue boids are accelerating
+\par {\pntext\pard\plain\f1\fs20\lang1033 \'b7\tab}White boids are keeping constant pace
+\par }\pard \li284\nowidctlpar {\lang1033 
+\par 
+\par }{\b\i\f5\fs24\cf1\lang1033 The boids themselves
+\par }{\lang1033 Every boid in the flock is in turn asked to decide what he wants to do; break, accelerate, turn left or turn right. He is given a list of the boids that are within his sensor range, 
+which is set to 50 pixels by default at the moment. He is also given the nearest obstacle, if there are any obstacles in the arena.
+\par 
+\par }{\b\f5\fs24\lang1033 1. Separation: steer to avoid crowding local flockmates. 
+\par }{\lang1033 My boids aren't very clever, they only keep track of one neighbor when it comes to separation. So if avoiding one means hitting another, the boids won't hesitate; they know of no other boids than the closest one.
+\par 
+\par If this rule is fired, that is, one Boid is within the closest allowed distance, the boid steers away from 
+the boid in question. Since separation steering should take higher priority than steering that other rules might order, future attempts to steer are limited.
+\par 
+\par The boid also slams the breaks if the boid he's getting to close too is ahead, and he accelerates if the boid in question is behind him.
+\par 
+\par }{\b\f5\fs24\lang1033 2. Alignment: steer towards the average heading of local flockmates.
+\par }{\lang1033 An average heading is calculated amongst the boids in range, and then the boid adjusts his own steering thereafter.
+\par 
+\par }{\b\f5\fs24\lang1033 3. Cohesion: steer to move toward the average position of local flockmates.
+\par }{\lang1033 This rule is executed in much the same way as the former rule.
+\par }{\b\i\f5\fs24\cf11\lang1033 
+\par }{\b\i\f5\fs24\cf1\lang1033 The circles / obstacles, or Rule zero
+\par }{\lang1033 
+My boids tend to get a bit dull if there's nothing in the system to prevent them from all converging into one big flock. So I inserted the 'obstacle' which is a yellow blob the Boids try to avoid. I call that rule zero; "don't hit the blob". That livens u
+p the lives of the boids.
+\par 
+\par They don't always avoid the obstacle, I'm sorry to s
+ay, partly because it's a tradeoff between avoiding the other boids, and partly because they only perceive *one* obstacle at a time; they don't plan ahead. If two obstacles are in range, they avoid the closer one, even if it means going head on into anoth
+er obstacle.
+\par 
+\par 
+\par }{\b\f5\fs28\lang1033 Possible enhancements / future uses
+\par }{\lang1033 There are many ways in which this code could be enhanced; the boids could take more than one neighbor into account when trying to avoid crashes. They could take more than one obstacle into account too. Othe
+r kinds of obstacles could be added, lines for instance, so that perimeter of the window could function as walls. I will probably not make these enhancements though.
+\par 
+\par The code could easily be used to output movement patterns that could later be rendered in 3D Studio or other 3D software packages. I will probably not this either, but if you would like to try it, I'd be glad to be of assistance.
+\par 
+\par A future enhancement would be to use WinG or DirectX to speed up the drawing, but for the time being, I won't.
+\par 
+\par I suspect the program would make a cool screensaver, but I won\rquote t do that either ;), perhaps one day\'85
+\par 
+\par }{\b\f5\fs28\lang1033 Copyright
+\par }{\lang1033 There is no copyright on this program, you may use it as you see fit. Standard disclaimer applies; I don't take responsibility for damage that might occur due to the program! The source code, if it is not included in this }{\lang2057 
+package, can  be obtained by asking me at matfa@acacia.se .
+\par 
+\par However, even though there is no Copyright on this software, I would very much like to know if you like it. If you find it interesting, drop me a note! If you *really* like it, send me a postcard\'85
+ ;) If you use it for something interesting, or improve it in some way, I'd love to know. 
+\par }\pard \li454\nowidctlpar {\lang2057 
+\par }\pard \li284\nowidctlpar {\b\f5\fs28\lang2057 Contacting the author
+\par }{\lang2057 If you want to contact me I can be reached at matfa@acacia.se or by snailmail at;
+\par 
+\par Mattias Fagerlund
+\par Skan\'f6rv\'e4gen 5 n.b.
+\par 121 52 Johanneshov
+\par SWEDEN
+\par }{\b\f5\fs28\lang2057 
+\par Version info
+\par {\pntext\pard\plain\fs20\lang2057 0.1 \tab}}\pard \fi-283\li567\nowidctlpar{\*\pn \pnlvlbody\pndec\pnb0\pni0\pnf4\pnfs20\pnstart1\pnindent283\pnhang{\pntxtb 0.}{\pntxta  }}{\lang2057 The original release of MatFa\rquote s boids
+\par {\pntext\pard\plain\fs20\lang1033 0.2 \tab}Fabrice Marguerie pointed out that real is suboptimal when used on a}
+ intel platform; Real uses 6 bytes to represent a value, single uses 4 and double uses 8. Intel has native support for singles and doubles, but *not* for reals, it turns out. Therefore reals are much slower than singles.\line 
+I replaced all reals with singles and the performance was boosted quite a lot more than I had expected. Thank you, Fabrice!{\lang1033 
+\par {\pntext\pard\plain\fs20\lang1033 0.3 \tab}}Fixed some bugs, added some functionality. It\rquote s now possible to decide which rules are employed, and to visually get an idea of *when* the rules are fired.{\lang1033 
+\par }}

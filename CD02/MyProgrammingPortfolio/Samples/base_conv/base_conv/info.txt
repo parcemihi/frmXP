@@ -1,0 +1,45 @@
+A base (radix) converting function
+
+By Jay Tanner
+
+
+This program is built around a function that computes the
+equivalent of a decimal integer in another base (radix).
+
+It's mostly just an intellectual toy, but it can be used to
+convert from decimal into binary, octal and hexadecimal.
+
+What makes this different from most base converters is that
+it can go far beyond base 2 to 16.  This function can convert
+decimal integers into any other base from 2 to 36!
+
+This means you can play with it and see what 1000 looks like
+in base 29, for example (it looks like 15E).  Even though it
+may not have much practical use, it demonstrates the process
+by which decimal values may be converted into other bases.
+
+The hexadecimal numbers include the letters A to F as digits
+beyond the 0 to 9 of the base 10 number system.  By extending
+this concept further, we can use the rest of the alphabet from
+G to Z as digits in the same way.  This gives us a system of
+'numbers' consisting of 36 unique digits from 0 to 9 and then
+the 26 letters of the alphabet.
+
+This is what the function does, which allows for the conversion
+of any base 10 integer into its equivalent in any other base
+from 2 to 36.
+
+The function can take a decimal integer up to 28 digits long
+as an argument ranging from 1 to 9999999999999999999999999999
+which would return a base 2 bumber 94 digits long!  Other bases
+would return less lengthly numbers, since they require numbers
+of lesser length to represent the same values.
+
+
+One note about the letters used as digits:
+The letter "O" tends to resemble the digit "0" (zero). So, to
+avoid the possibility of confusing the two, the letter "O" is
+expressed as a lower case "o" which makes it easier to dis-
+tinguish from the digit zero when experimenting with radix
+values of 25 or greater.
+

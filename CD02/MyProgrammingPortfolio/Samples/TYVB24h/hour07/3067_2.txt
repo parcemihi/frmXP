@@ -1,0 +1,7 @@
+If (intDivNum = 3) Or (intDivNum = 4) Then
+  curDivTotal = curDivSales3 + curDivSales4
+  curGrandDivCosts = (curDivCost3 * 1.2) + (curDivCost4 * 1.4)
+Else
+  curDivTotal = curDivSales1 + curDivSales2
+  curGrandDivCosts = (curDivCost1 * 1.1) + (curDivCost5 * 1.9)
+End If

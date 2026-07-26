@@ -1,0 +1,10 @@
+Select Case intAge
+  Case 5:  lblTitle.Caption = “Kindergarten”
+  Case 6:  lblTitle.Caption = “1st Grade”
+  Case 7:  lblTitle.Caption = “2nd Grade”
+  Case 8:  lblTitle.Caption = “3rd Grade”
+  Case 9:  lblTitle.Caption = “4th Grade”
+  Case 10: lblTitle.Caption = “5th Grade”
+  Case 11: lblTitle.Caption = “6th Grade”
+  Case Else:  lblTitle.Caption = “Advanced”
+End Select

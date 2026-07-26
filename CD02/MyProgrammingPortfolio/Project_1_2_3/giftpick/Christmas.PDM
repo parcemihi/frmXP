@@ -1,0 +1,203 @@
+[Root]
+Most Recent Package=Christmas Gift Giver Picker
+Most Recent Deploy=Gift Give Floppy Deployment 1
+
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\giftpick\Package
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 1|Files Found]
+
+[Package|Standard Setup Package 1|Files Released]
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+
+[Package|Standard Setup Package 1|Files Added]
+C:\giftpick\example.chr=
+
+[Package|Standard Setup Package 1|Files Removed]
+
+[Package|Standard Setup Package 1|Files In Project]
+C:\giftpick\giftpick.exe=Yes
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=Yes
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\giftpick\example.chr=Yes
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+C:\giftpick\giftpick.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\giftpick\example.chr=$(AppPath)
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+C:\giftpick\giftpick.exe=No
+C:\giftpick\example.chr=No
+
+[Package|Standard Setup Package 1|Distribution]
+Type=single
+Size=
+Title=Christmas Gift Giver Picker
+
+[Package|Standard Setup Package 1|IconGroups]
+Group0=Christmas Gift Giver Picker
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 1|Christmas Gift Giver Picker]
+Icon1=giftpick.exe
+Title1=Gift Giver
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 1|Package]
+PackageFolder=C:\giftpick\Package
+ProjectFolder=C:\giftpick
+ServerSideCab=
+File1=C:\giftpick\Package\setup.exe
+File2=C:\giftpick\Package\Setup.Lst
+File3=C:\giftpick\Package\giftpick.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Deploy|Gift Give Floppy Deployment 1|Root]
+Package=Christmas Gift Giver Picker
+Handler=PDWizard.FloppyDplySubWiz
+Floppy Drive=a:\
+Format=No
+
+
+[Package|Christmas Gift Giver Picker|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\giftpick\Package
+
+[Package|Christmas Gift Giver Picker|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Christmas Gift Giver Picker|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Christmas Gift Giver Picker|Files Found]
+
+[Package|Christmas Gift Giver Picker|Files Released]
+
+[Package|Christmas Gift Giver Picker|Missing Dependency Information]
+
+[Package|Christmas Gift Giver Picker|Out-of-Date Dependency Information]
+
+[Package|Christmas Gift Giver Picker|Files Added]
+c:\giftpick\example.chr=
+c:\giftpick\readme.txt=
+
+[Package|Christmas Gift Giver Picker|Files Removed]
+
+[Package|Christmas Gift Giver Picker|Files In Project]
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=Yes
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\giftpick\example.chr=Yes
+C:\giftpick\readme.txt=Yes
+C:\giftpick\giftgive.exe=Yes
+
+[Package|Christmas Gift Giver Picker|Configure Registry Files]
+Applicable=No
+
+[Package|Christmas Gift Giver Picker|Configure Remote Servers]
+Applicable=No
+
+[Package|Christmas Gift Giver Picker|Install Locations]
+C:\giftpick\giftpick.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\giftpick\example.chr=$(AppPath)
+C:\giftpick\readme.txt=$(AppPath)
+C:\giftpick\giftgive.exe=$(AppPath)
+
+[Package|Christmas Gift Giver Picker|Configure Shared Files]
+Applicable=Yes
+C:\giftpick\giftpick.exe=No
+C:\giftpick\example.chr=No
+C:\giftpick\readme.txt=No
+C:\giftpick\giftgive.exe=No
+
+[Package|Christmas Gift Giver Picker|Distribution]
+Type=single
+Size=1.44 MB
+Title=Christmas Gift Giver Picker
+
+[Package|Christmas Gift Giver Picker|IconGroups]
+Group0=Christmas Gift Giver Picker
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Christmas Gift Giver Picker|Christmas Gift Giver Picker]
+Icon1=giftpick.exe
+Title1=Gift Giver
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Christmas Gift Giver Picker|Package]
+PackageFolder=C:\giftpick\Package
+ProjectFolder=C:\giftpick
+ServerSideCab=
+File1=C:\giftpick\Package\setup.exe
+File2=C:\giftpick\Package\Setup.Lst
+File3=C:\giftpick\Package\giftgive.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

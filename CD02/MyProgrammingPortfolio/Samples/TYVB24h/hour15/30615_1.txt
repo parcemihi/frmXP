@@ -1,0 +1,19 @@
+Private Sub WriteData (CNames As String, CBalc() As _
+Currency, CDate() As Variant, CRegion() As Integer)
+' Writes array data to a file
+Dim intCtr As Integer   ' For loop control
+
+' Assumes that each array has the
+' same number of elements defined
+Dim intMax As Integer
+intMax = UBound(CNames)   ' The maximum subscript
+
+' Write intMax lines to the file
+' with four values on each line
+Open "c:\Mktg.dat" For Output As #1
+For intCtr = 1 To intMax
+Write #1, CNames(intCtr), CBalc(intCtr), _
+CDate(intCtr), CRegion(intCtr)
+Next intCtr
+Close #1
+End Sub

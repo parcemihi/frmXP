@@ -1,0 +1,9 @@
+Printer.Print "Invoice #"; invnum
+Printer.Print "Customer:"; cust(CCnt); Tab(20); "Final Sales"
+Printer.Print "Amount of sale:"; Tab(20); Format(SaleAmt, "Currency")
+Printer.Print "Tax:"; Tab(20); Format(tax, "Currency")
+Printer.Print
+Printer.Print "Total:"; Tab(20), Format(TotalSale, "Currency")
+
+ ' Release the job for actual printing
+Printer.EndDoc

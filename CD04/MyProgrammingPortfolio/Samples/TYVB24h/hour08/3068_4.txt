@@ -1,0 +1,4 @@
+intSum = 0
+For intNumber = 1 To 10
+intSum = intSum + intNumber
+Next intNumber

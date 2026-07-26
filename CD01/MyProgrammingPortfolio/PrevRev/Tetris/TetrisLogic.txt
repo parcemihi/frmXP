@@ -1,0 +1,57 @@
+Block Questions
+loop
+	Is block present below?
+	  NO
+	  - Move block down
+	  YES
+	  - Stop movement
+
+
+
+	      NO 
+	      - Stop movement
+	      - End Game
+	      YES
+	        Is current row complete?
+		  NO
+		  - Stop movement
+		  - start new block
+		  YES
+		  - Stop movement
+		  - Remove row and move all blocks above down 1 space
+		  - start new block
+		
+loop
+
+
+
+
+
+
+
+
+
+
+
+Determine row number completed
+
+
+loop values from 0 to row complete, add 10 to each position.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

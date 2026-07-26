@@ -1,0 +1,28 @@
+Rem The following Select Case to End Select code
+Rem   assigns a student’s grade and school name
+Rem   to the label on the form. The code checks
+Rem   to make sure that the student is not too
+Rem   young to be going to school.
+Select Case intAge
+‘ Check for too young...
+Case Is <5:  lblTitle.Text = “Too young”
+
+‘ Five-year olds are next assigned
+Case 5: lblTitle.Text = “Kindergarten”
+
+‘ Six to eleven...
+Case 6 To 11:  lblTitle.Text = “Elementary”
+lblSchool.Text = “Lincoln”
+
+‘ Twelve to fifteen...
+Case 12 To 15: lblTitle.Text = “Intermediate”
+lblSchool.Text = “Washington”
+
+‘ Sixteen to eighteen
+Case 16 To 18: lblTitle.Text = “High School”
+lblSchool.Text = “Betsy Ross”
+
+‘ Everyone else must go to college
+Case Else: lblTitle.Text = “College”
+lblSchool.Text = “University”
+End Select

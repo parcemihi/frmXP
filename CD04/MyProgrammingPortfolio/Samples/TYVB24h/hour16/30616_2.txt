@@ -1,0 +1,16 @@
+Taxl = TaxRate * HouseVal1
+Tax2 = TaxRate * HouseVal2
+
+TotalVal = HouseVal1 + HouseVal2
+TotTaxes = TaxRate * TotalVal
+
+Printer.Print "House Value"; Tab(20); "Tax"
+Printer.Print Format(HouseVal1, "Currency");
+Printer.Print Tab(20); Format(Taxl, "Currency")
+Printer.Print Format(HouseVal2, "Currency");
+Printer.Print Tab(20); Format(Tax2, "Currency")
+
+Printer.Print  ' Prints a blank line
+Printer.Print "Total tax:"; Spc(5); Format(TotTaxes, "Currency")
+Printer.NewPage
+Printer.EndDoc
